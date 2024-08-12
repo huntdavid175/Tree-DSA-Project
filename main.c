@@ -19,7 +19,9 @@ typedef struct HashTable
 
 int GenerateHash(char *key);
 Parcel *initializeParcelNode(char *destination, int weight, float valuation);
-Parcel *initializeHashTable(void);
+HashTable *initializeHashTable(void);
+void *insertIntoTable(HashTable *hashTable, char *destination, int weight, float valuation);
+Parcel *InsertElementIntoBST(Parcel *root, Parcel *newParcel);
 
 int main(void)
 {
@@ -75,4 +77,38 @@ HashTable *initializeHashTable(void)
         hashTable->table[i] = NULL;
     }
     return hashTable;
+}
+
+void *insertIntoTable(HashTable *hashTable, char *destination, int weight, float valuation)
+{
+    int hash = GenerateHash(destination);
+
+    Parcel *newParcel = initializeParcelNode(destination, weight, valuation);
+
+    if (hashTable->table[hash] == NULL)
+    {
+        hashTable->table[hash] = newParcel;
+        return;
+    }
+
+    Parcel *current = hashTable->table[hash];
+
+    hashTable->table[hash] = InsertElementIntoBST(current, newParcel);
+}
+
+Parcel *InsertElementIntoBST(Parcel *root, Parcel *newParcel)
+{
+    if (root == NULL)
+    {
+        return newParcel;
+    }
+    if (newParcel->weight < root->weight)
+    {
+        root->leftChild = insertParcel(root->leftChild, newParcel);
+    }
+    else
+    {
+        root->rightChild = insertParcel(root->rightChild, newParcel);
+    }
+    return root;
 }
