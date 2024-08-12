@@ -1,2000 +1,2000 @@
-Vietnam,48192,893.9
-Djibouti,3355,1483.96
-Liberia,486,738.46
-Colombia,31365,796.58
-Germany,34933,487.25
-Bulgaria,27371,227.83
-Mongolia,26419,118.32
-Iceland,36116,1975.35
-Kuwait,32449,648.86
-Vanuatu,35469,368.24
-Israel,37068,1215.69
-Vietnam,44606,1131.3
-Aruba,40529,1880.12
-Australia,34025,1370.07
-Uruguay,1230,1153.92
-Israel,42470,110.3
-Barbados,39268,1575.61
-Bulgaria,10382,1487.08
-Slovakia,38895,711.74
-Burkina,10218,1913.74
-Oman,17973,237.61
-Colombia,15607,28.67
-Eswatini,3090,691.38
-Cuba,42017,1289.75
-Vanuatu,19481,1216.52
-Iceland,2002,1728.05
-Kosovo,11569,1144.2
-Canada,3034,1637.28
-Nepal,47398,1252.59
-Azerbaijan,8499,1151.91
-Italy,37870,117.4
-Burkina,31391,1484.06
-Bulgaria,43401,994.46
-Oman,49047,1499.19
-Russian Federation,29611,1820.23
-India,13232,1368.4
-Algeria,33133,1895.28
-Spain,48577,1314.43
-Canada,12508,1033.21
-Algeria,21089,306.12
-Canada,13477,885.84
-Benin,44236,215.37
-Gambia,21013,1240.98
-Iraq,26597,1861.4
-Kosovo,3044,828.39
-Cuba,41518,1945.64
-Kosovo,37545,787.97
-Djibouti,23612,1066.18
-Canada,47308,1773.61
-Kuwait,36694,12.86
-France,24643,1231.91
-Trinidad & Tobago,25767,86.06
-Israel,29352,1322.13
-Myanmar,40095,1005.06
-Barbados,14626,1132.06
-Ukraine,11552,509.82
-Mongolia,11279,1214.05
-Armenia,38706,1832.25
-Barbados,43190,715.34
-Oman,6748,475.32
-Burkina,33457,883.87
-Gambia,11669,1779.03
-Vanuatu,8453,1743.89
-Cuba,40798,230.14
-Japan,13776,1948.93
-Spain,692,153.17
-Vietnam,44707,1874.81
-Ukraine,13920,866.37
-Ethiopia,623,237.01
-Vanuatu,21923,419.37
-Japan,34693,137.78
-Italy,21748,1808.97
-Germany,10730,1512.02
-Canada,11712,863.75
-Burkina,24936,147.08
-Burkina,46639,1829.22
-India,40328,616.39
-Costa Rica,44324,664.48
-Marshall Islands,20874,1843.81
-Djibouti,15366,1793.74
-India,46359,345.73
-Taiwan,19671,771.41
-Eswatini,16897,291.84
-Nepal,40446,1467.09
-Yemen,28713,361.25
-Bahamas,46401,621.24
-Afghanistan,32061,847.12
-Algeria,9690,486.18
-Eswatini,28835,1766.93
-Mongolia,43980,1238.06
-Albania,2545,1694.88
-Eswatini,16461,1445.19
-Antigua & Deps,21070,160.08
-Iceland,26481,1327.58
-Canada,15402,757.54
-Burkina,17506,745.89
-Yemen,22271,522.39
-Bahamas,45047,1103.25
-Vietnam,20958,1550.06
-Iraq,12090,1743.62
-India,26261,1253.43
-Barbados,31773,231.44
-Armenia,32718,1712.29
-Oman,4136,594.39
-Nepal,49194,668.19
-Oman,24884,309.61
-Spain,18935,1363.11
-Liberia,731,595.69
-Albania,27472,1678.71
-Ukraine,31477,954.49
-Aruba,42768,322.93
-Cuba,24323,688.57
-Iceland,28977,561.54
-Armenia,18498,1673.24
-Aruba,540,595.0
-Colombia,21839,1785.63
-Iceland,36458,122.9
-Russian Federation,20519,1527.73
-Vanuatu,3849,1813.81
-Kosovo,3610,1522.44
-Kosovo,35286,1899.73
-Marshall Islands,40651,1652.72
-Myanmar,6820,1776.38
-Israel,38511,1923.82
-Ethiopia,33698,117.82
-Ukraine,1927,1261.2
-Myanmar,15985,1600.83
-Italy,3140,768.71
-Liberia,20223,505.81
-Taiwan,3015,351.67
-Albania,41720,645.42
-Aruba,7945,658.94
-Yemen,47163,70.2
-Iceland,9455,1872.56
-Eswatini,28539,1745.07
-Kosovo,18652,1247.24
-Bulgaria,14598,622.62
-Bulgaria,28072,89.37
-Armenia,44219,674.4
-Mongolia,31398,1839.73
-Indonesia,3307,1094.49
-Israel,13722,1807.69
-India,49827,815.98
-Italy,37940,305.9
-San Marino,21000,210.38
-Spain,37386,576.43
-Myanmar,2090,1358.28
-Spain,20143,355.58
-Ethiopia,40533,757.98
-Afghanistan,35982,1563.11
-Antigua & Deps,14173,100.66
-Italy,21259,342.67
-Slovakia,30131,844.7
-Nepal,33564,1209.03
-Aruba,2449,1192.68
-Spain,30659,80.28
-Trinidad & Tobago,24414,961.78
-Trinidad & Tobago,28385,1019.26
-Bulgaria,29616,148.29
-Bhutan,1643,1457.97
-Trinidad & Tobago,34791,1193.67
-Iceland,10285,54.85
-Burkina,45372,1377.99
-Taiwan,20473,963.31
-Bulgaria,40469,690.47
-Indonesia,8753,393.76
-Aruba,48366,514.89
-Colombia,16790,149.31
-Yemen,47181,967.41
-Azerbaijan,49332,1959.15
-Afghanistan,1952,254.97
-Myanmar,9455,1558.83
-Trinidad & Tobago,31876,1649.27
-Ethiopia,34825,813.26
-Iraq,42237,1395.53
-Armenia,13668,1789.95
-Uruguay,30174,1832.34
-Nepal,42642,1015.15
-Trinidad & Tobago,33149,1783.84
-Taiwan,12041,704.4
-Myanmar,9684,1909.03
-Gambia,32007,1130.0
-Aruba,6315,1827.6
-Armenia,43273,247.21
-Germany,31086,1624.67
-Colombia,22001,536.35
-Yemen,37576,853.78
-Azerbaijan,49600,788.21
-Eswatini,2305,1765.86
-Afghanistan,18536,1965.97
-Yemen,49814,1497.75
-Marshall Islands,14338,458.51
-Uruguay,31094,1615.41
-Antigua & Deps,3211,89.78
-Costa Rica,36888,105.8
-Iceland,30446,1299.11
-Japan,17153,1239.0
-Afghanistan,46969,498.97
-Italy,25809,1470.65
-Bhutan,26725,1775.22
-Israel,4290,1680.44
-Nepal,1935,1350.43
-Ethiopia,16556,1430.68
-Gambia,30930,570.02
-Ukraine,27227,1527.11
-Myanmar,38908,41.08
-Armenia,4223,1117.32
-Nepal,3261,387.14
-Bulgaria,39049,666.22
-Japan,38234,1374.5
-Marshall Islands,44233,1819.25
-Bahamas,33725,815.15
-Aruba,7322,662.27
-Burkina,11586,652.15
-India,23397,1630.25
-Albania,16634,366.35
-Oman,37302,93.25
-Japan,16211,192.38
-Iceland,2431,1539.4
-Indonesia,6588,1357.55
-Eswatini,49283,638.17
-Yemen,36671,719.76
-Barbados,16587,801.62
-Aruba,19405,1214.92
-Eswatini,19285,420.82
-Trinidad & Tobago,25890,1661.91
-Armenia,37168,1631.59
-Bulgaria,35665,301.76
-Mongolia,27136,1177.21
-Iceland,46162,816.82
-Taiwan,44794,1189.2
-Eswatini,45194,547.23
-Yemen,35728,1497.4
-Iceland,4312,1642.91
-Germany,24947,709.8
-Germany,15297,691.64
-Antigua & Deps,24685,51.47
-Germany,44255,581.96
-Slovakia,46469,830.71
-Vanuatu,11209,460.3
-Armenia,36442,955.94
-Oman,42911,1385.68
-Kosovo,38012,1632.39
-Afghanistan,15853,1818.81
-Israel,30517,1382.35
-Marshall Islands,27382,1920.95
-Uruguay,3573,78.28
-Iraq,44973,570.35
-Mongolia,20100,301.56
-Australia,7469,396.48
-Australia,49350,696.12
-Marshall Islands,38467,1064.75
-Vietnam,2167,536.73
-Spain,4116,730.96
-Kosovo,34816,539.12
-Afghanistan,35651,1141.51
-Benin,34085,893.92
-Mongolia,17432,1144.95
-Azerbaijan,48749,237.13
-France,8133,446.86
-Indonesia,11792,476.69
-Russian Federation,3041,1196.11
-Antigua & Deps,21096,1917.82
-Canada,6660,181.77
-Bahamas,31894,1263.14
-Yemen,22617,630.97
-Japan,21327,1268.4
-Kosovo,1148,1340.84
-Vietnam,33918,236.32
-Djibouti,12133,987.51
-India,48329,75.43
-Australia,16003,900.54
-Costa Rica,13932,1037.45
-Uruguay,20576,172.42
-Kosovo,41041,1172.54
-Israel,44888,1093.66
-Cuba,34486,234.96
-Uruguay,16415,1774.23
-Bahamas,11250,596.0
-Indonesia,49101,446.07
-Azerbaijan,45607,509.66
-Marshall Islands,4833,1852.47
-Vanuatu,183,1577.3
-Cuba,23641,1356.51
-Ethiopia,40583,1333.28
-Myanmar,14067,725.26
-Barbados,20474,191.94
-Albania,38639,845.35
-Yemen,21342,925.69
-Cuba,45657,1220.76
-Vanuatu,27851,381.29
-Eswatini,41846,410.4
-Vanuatu,3752,1870.19
-Japan,40503,467.78
-Aruba,25082,1649.1
-Colombia,4068,108.35
-Iraq,12470,1118.94
-Iceland,29955,215.97
-Myanmar,3644,1969.15
-Ukraine,2569,66.81
-Antigua & Deps,20883,595.37
-Bahamas,7569,1516.96
-Burkina,44257,74.95
-Afghanistan,33366,1878.2
-Nepal,35093,258.08
-Kuwait,19770,418.95
-Vanuatu,18935,937.72
-Indonesia,3012,1311.62
-Costa Rica,12201,188.8
-Uruguay,18891,1453.37
-Indonesia,23634,1591.3
-Spain,14759,1861.24
-Israel,7069,440.88
-Gambia,996,691.72
-Algeria,44763,1813.59
-Gambia,4715,1006.2
-Cuba,21253,943.41
-Canada,41678,1362.25
-Yemen,6776,1731.19
-Azerbaijan,27134,142.16
-Cuba,4758,1642.59
-Germany,25741,1281.86
-San Marino,39736,451.34
-Azerbaijan,17534,631.41
-Ukraine,25892,1867.22
-Kosovo,10548,1993.04
-Germany,20896,476.38
-Oman,12204,101.67
-Myanmar,34042,1606.39
-Armenia,38609,1608.94
-Oman,27680,718.68
-Iraq,21366,1670.09
-Slovakia,18185,1218.05
-Burkina,41930,299.17
-Ethiopia,49766,326.02
-Yemen,10368,338.37
-Djibouti,27910,507.08
-Albania,27578,1702.7
-Armenia,33107,680.41
-Israel,40681,1368.16
-Gambia,5428,1917.62
-Australia,27954,618.47
-Slovakia,12324,1007.65
-Eswatini,40818,1356.11
-Mongolia,918,1900.68
-Bahamas,38411,1360.95
-France,35281,690.03
-Bhutan,48552,98.48
-Australia,33828,1237.87
-Armenia,46007,1560.94
-Albania,35902,684.06
-India,48715,842.62
-Israel,1489,1497.35
-Ukraine,14767,1569.95
-Iraq,4511,828.84
-Marshall Islands,12404,15.9
-Nepal,28420,594.89
-Nepal,10855,1022.22
-San Marino,27259,1492.55
-Taiwan,19692,78.06
-Liberia,13880,339.77
-Ukraine,30562,1401.85
-Ethiopia,16670,1659.79
-Marshall Islands,2295,318.64
-Canada,25050,1810.15
-Cuba,42975,611.47
-Kuwait,23697,600.51
-Liberia,31340,1164.77
-Cuba,15667,731.57
-Trinidad & Tobago,22090,1832.96
-Albania,42520,57.6
-Gambia,8774,295.89
-Azerbaijan,37400,1926.76
-Taiwan,48769,294.18
-Russian Federation,24964,166.5
-Bhutan,37844,856.66
-Cuba,17477,1804.22
-Uruguay,20580,943.63
-Iraq,37204,1324.04
-Costa Rica,29567,398.11
-Albania,16317,1190.54
-Taiwan,4871,1628.73
-Canada,3243,985.98
-Bahamas,2212,948.1
-Trinidad & Tobago,37389,806.59
-Barbados,12367,185.03
-Albania,25319,1770.67
-Slovakia,44896,1670.26
-Eswatini,38686,462.85
-Indonesia,34954,1345.86
-Albania,31531,1213.59
-Canada,22557,1790.05
-India,24419,786.66
-Bulgaria,24395,705.93
-San Marino,16267,907.65
-Oman,29299,1648.68
-Spain,21924,985.12
-Burkina,43965,1680.98
-Israel,18159,163.45
-Trinidad & Tobago,41096,977.93
-Vanuatu,4256,1358.04
-Antigua & Deps,46249,1390.67
-Iraq,37989,1239.2
-Marshall Islands,19543,571.15
-Cuba,49496,1358.42
-Vanuatu,1567,1844.86
-Uruguay,46004,677.93
-France,25918,1310.71
-Israel,35213,1524.32
-Eswatini,29137,1803.28
-Cuba,42913,997.94
-Algeria,42685,184.83
-Australia,3054,472.75
-Algeria,4840,1821.01
-San Marino,27972,862.03
-Vanuatu,43606,1978.52
-Indonesia,43591,654.06
-Eswatini,11281,247.16
-Ethiopia,10649,1007.28
-Costa Rica,39799,1118.36
-Italy,9440,1352.72
-Benin,30028,1525.4
-Aruba,5144,728.49
-Bhutan,31230,1501.63
-Eswatini,38392,645.64
-Gambia,24192,824.78
-Ethiopia,15808,1440.14
-Germany,5580,207.97
-San Marino,15814,376.13
-Djibouti,10302,1865.81
-Australia,24113,1512.56
-Nepal,30485,915.29
-Ethiopia,33425,767.27
-Marshall Islands,399,835.87
-Spain,38232,557.15
-Trinidad & Tobago,16316,570.6
-Slovakia,47487,251.43
-France,20106,1883.22
-Russian Federation,25124,276.08
-Israel,40031,292.2
-Yemen,28712,179.96
-Japan,14701,1766.19
-Eswatini,5500,1881.2
-Armenia,10796,977.78
-Aruba,8557,336.62
-India,8422,750.69
-Bahamas,35396,1067.88
-Indonesia,46152,1733.81
-Cuba,37657,1570.53
-Cuba,22080,532.73
-Benin,18599,470.64
-Liberia,40571,1471.16
-Taiwan,31933,1173.73
-Iraq,6486,722.57
-Barbados,45233,1944.75
-Taiwan,34201,1026.96
-Benin,31149,1088.12
-Germany,27064,600.66
-Costa Rica,13490,1366.34
-Costa Rica,14680,1082.34
-Germany,27613,1531.12
-Antigua & Deps,16066,1831.75
-Aruba,33654,490.88
-Bhutan,44359,1552.81
-Azerbaijan,43213,988.5
-Oman,12773,756.25
-Ethiopia,43562,280.6
-Mongolia,8813,1133.85
-Armenia,7792,724.27
-Uruguay,36112,1747.98
-Liberia,8054,1649.1
-Australia,19419,1168.17
-Djibouti,21877,1953.87
-Barbados,22562,1390.56
-Trinidad & Tobago,28236,1625.8
-Costa Rica,16722,1643.02
-Mongolia,36657,648.09
-Bhutan,27261,113.56
-Afghanistan,43893,1077.21
-Burkina,48697,146.76
-Kosovo,14223,1628.93
-Oman,48241,1913.25
-Japan,29714,1120.47
-Bahamas,31540,84.96
-Slovakia,24118,891.38
-San Marino,41252,1595.15
-Burkina,2941,624.99
-Barbados,48220,1542.28
-Yemen,45946,970.2
-Bhutan,30335,416.52
-Eswatini,14510,850.81
-Oman,13275,1946.9
-Afghanistan,48531,62.94
-San Marino,26021,1711.63
-Myanmar,8858,558.68
-Yemen,39120,141.48
-Canada,25038,1733.96
-Bahamas,28163,886.39
-Costa Rica,2381,453.38
-Azerbaijan,16157,1765.62
-Liberia,3202,828.98
-Armenia,18453,1018.95
-Iraq,33166,173.66
-Vietnam,45109,654.75
-Marshall Islands,24105,276.75
-Bahamas,12259,1284.77
-Uruguay,44590,1458.51
-Burkina,42256,1168.73
-Iceland,3514,1814.91
-Italy,36551,1474.65
-Italy,371,673.44
-Bahamas,22251,1082.43
-Azerbaijan,6209,1810.98
-Kosovo,40692,1906.23
-Eswatini,38320,1074.03
-Japan,14807,389.57
-Russian Federation,38138,40.28
-Costa Rica,25440,411.34
-Iraq,13127,1448.28
-Colombia,24789,1828.16
-Marshall Islands,41579,1233.69
-Iraq,22422,554.68
-Spain,27085,710.62
-Oman,2236,760.2
-Antigua & Deps,40399,1717.53
-Canada,18945,538.01
-Indonesia,21523,1472.9
-Burkina,33191,842.32
-Kosovo,1933,241.91
-Eswatini,46864,104.69
-Costa Rica,13769,1380.87
-Australia,8573,1111.34
-Israel,42154,438.38
-San Marino,8824,1633.79
-Vanuatu,14918,1345.77
-Aruba,15869,325.52
-Ukraine,35966,512.27
-Germany,40793,1340.54
-Algeria,1469,1092.66
-Yemen,20798,437.3
-Burkina,34715,842.62
-Bulgaria,7222,1497.68
-Burkina,17477,1583.5
-Benin,42918,1669.8
-Mongolia,1729,1673.2
-Afghanistan,44327,1710.24
-Nepal,10192,497.8
-Bulgaria,10037,1298.87
-Algeria,17024,1642.73
-Albania,16239,1803.75
-Canada,32860,1324.16
-Benin,49253,933.05
-India,40978,388.54
-Germany,16419,1554.24
-Trinidad & Tobago,16516,287.59
-Trinidad & Tobago,5060,1458.93
-Algeria,17031,1091.39
-Israel,12206,1935.16
-Bhutan,23575,1161.59
-Barbados,37608,1099.81
-Nepal,32701,211.25
-Bulgaria,32584,381.19
-Oman,9553,1357.36
-Nepal,29258,1420.09
-Taiwan,6746,1542.08
-Australia,17053,1882.95
-Vietnam,43600,1340.63
-Slovakia,30487,1359.34
-Gambia,40632,666.6
-Kosovo,46066,955.03
-Bulgaria,13196,1856.65
-Slovakia,26955,750.01
-Iraq,36783,947.11
-Ukraine,38993,1204.31
-Trinidad & Tobago,42392,1760.14
-Bahamas,31320,1302.25
-Barbados,20748,988.17
-Canada,32075,1075.24
-Bhutan,23367,929.52
-Nepal,3326,736.93
-Vanuatu,27887,898.47
-Eswatini,24018,996.15
-Algeria,46311,1035.38
-Cuba,4725,1213.92
-Yemen,36949,1725.77
-Vanuatu,10041,1758.0
-Costa Rica,32290,201.44
-Myanmar,15472,1603.98
-Mongolia,724,830.41
-Antigua & Deps,12053,1013.8
-Gambia,43487,1717.4
-Barbados,36344,130.07
-Iceland,34729,1926.2
-Bulgaria,29505,1702.25
-Nepal,24529,1991.48
-Canada,17236,313.88
-Germany,19890,1625.53
-San Marino,39080,624.5
-Marshall Islands,42346,1956.34
-France,39109,1228.61
-Ukraine,26977,1969.68
-Iceland,30885,590.17
-Benin,43546,1802.13
-Vietnam,15571,614.1
-Bulgaria,12046,1017.72
-Japan,11157,1498.08
-Yemen,15267,982.86
-Algeria,17758,811.25
-Spain,46000,370.89
-India,3492,1803.63
-Japan,13700,859.32
-Nepal,45697,664.03
-Gambia,1953,892.32
-Slovakia,24932,149.31
-Uruguay,1000,1259.45
-Barbados,11098,1346.54
-Djibouti,33688,1669.77
-Yemen,26102,1808.04
-India,19292,1263.84
-Algeria,33601,1308.3
-Vietnam,7185,1514.24
-Yemen,21677,918.57
-Indonesia,19996,820.93
-Iraq,47641,1486.77
-Iraq,17306,1651.85
-India,33258,1795.87
-Liberia,45690,1503.91
-Indonesia,31891,320.69
-Djibouti,46190,774.44
-France,29209,634.07
-Uruguay,6707,306.21
-Oman,38916,1658.47
-Djibouti,28426,132.12
-India,1497,898.13
-Australia,6065,901.77
-Burkina,19538,651.31
-Algeria,36714,1787.65
-Nepal,7590,1633.8
-Aruba,21501,1314.22
-Armenia,36845,1948.4
-Indonesia,11857,1667.67
-Marshall Islands,46981,440.21
-San Marino,28547,360.91
-Albania,35081,1997.36
-Kuwait,2757,595.86
-Marshall Islands,23218,955.34
-Costa Rica,18967,137.51
-Germany,34904,936.13
-Indonesia,22693,1122.78
-Barbados,31782,391.25
-Eswatini,442,1442.74
-Yemen,7875,1543.72
-Israel,5315,194.82
-Burkina,8691,1615.41
-Taiwan,23749,1072.73
-Ethiopia,3674,856.62
-Gambia,21574,439.53
-Liberia,41603,72.1
-Vietnam,21093,1545.42
-Yemen,2142,1198.65
-Italy,8270,487.93
-Taiwan,40806,771.37
-Aruba,22943,192.4
-Oman,14055,493.93
-India,1784,1592.71
-Japan,40947,1283.64
-Afghanistan,37233,622.04
-Myanmar,7845,308.41
-Ethiopia,43465,966.49
-Kosovo,34176,257.47
-Germany,24712,1945.22
-Algeria,35112,874.79
-Canada,15602,1093.06
-Gambia,10171,193.44
-Ethiopia,36644,862.81
-Colombia,17912,663.17
-Vanuatu,28855,232.45
-Colombia,35091,1228.91
-Cuba,18475,604.03
-Iraq,29327,1410.93
-Uruguay,6108,709.83
-Spain,46667,726.24
-Bulgaria,44091,1188.99
-Iraq,14277,303.52
-Ukraine,24910,43.76
-Myanmar,6690,1578.74
-Taiwan,3231,387.25
-Kuwait,26355,848.85
-Azerbaijan,33622,1967.2
-Iraq,30376,863.19
-Burkina,14310,1316.86
-Ukraine,16724,1629.33
-Burkina,4737,460.87
-Antigua & Deps,153,165.28
-Trinidad & Tobago,37975,1483.81
-Israel,35797,1964.35
-Kuwait,1538,403.3
-Iceland,596,35.03
-Italy,44639,163.34
-Eswatini,21060,1276.84
-Albania,16037,1882.58
-Myanmar,22546,1528.44
-Iraq,36346,232.45
-Ukraine,20236,741.59
-Oman,15842,1149.89
-Bulgaria,17864,787.96
-Japan,4350,664.59
-Myanmar,10758,1254.78
-Cuba,5510,1446.58
-Taiwan,890,1039.5
-Gambia,40464,167.15
-Indonesia,37428,1812.61
-Myanmar,35127,840.16
-Kuwait,44352,1456.89
-Colombia,45565,1597.58
-Yemen,1566,1971.13
-Barbados,14591,1512.62
-Burkina,38468,568.35
-Canada,46179,1557.68
-Armenia,42832,1849.83
-Antigua & Deps,9443,574.88
-Gambia,46536,1707.53
-Nepal,12036,1296.07
-Italy,12126,1331.64
-Benin,44903,925.26
-Australia,8952,1018.48
-Japan,7941,742.58
-Bhutan,2360,1025.33
-Trinidad & Tobago,32672,1002.44
-Ukraine,4981,1241.22
-Liberia,14327,17.57
-Russian Federation,49223,970.3
-Afghanistan,24954,109.75
-Kuwait,2308,1469.19
-Italy,2067,975.13
-Uruguay,38870,813.35
-Barbados,31403,826.77
-Vietnam,11529,752.63
-Russian Federation,31810,137.51
-Trinidad & Tobago,21024,184.71
-Bulgaria,33104,884.79
-Israel,35546,626.61
-Ukraine,31110,950.81
-Colombia,38601,1075.11
-Barbados,43624,789.15
-Uruguay,38342,1026.94
-Costa Rica,37917,911.62
-Gambia,32269,1625.21
-Italy,28717,530.66
-Kuwait,31039,1213.58
-Russian Federation,19019,160.48
-Eswatini,47867,710.12
-Spain,48394,1092.64
-Colombia,703,266.13
-Indonesia,44379,953.85
-Vanuatu,35869,1679.11
-Eswatini,47760,1716.06
-Mongolia,47657,766.83
-Spain,47963,333.59
-Marshall Islands,17464,821.63
-Uruguay,23544,1110.22
-Germany,13561,1793.12
-Nepal,23723,231.3
-Trinidad & Tobago,47498,883.45
-Japan,47726,966.81
-Benin,36615,385.67
-Colombia,38145,1996.44
-Russian Federation,3916,1904.95
-Azerbaijan,4601,91.05
-Taiwan,32148,1869.16
-India,12613,1479.71
-Germany,9795,44.3
-Eswatini,23398,1748.09
-Marshall Islands,38813,158.76
-Myanmar,37781,1617.63
-Benin,41518,1567.83
-Myanmar,45767,845.18
-Italy,33524,1467.12
-Burkina,1750,1846.32
-Bahamas,14371,1620.49
-Australia,42537,1708.24
-Costa Rica,16933,708.74
-Antigua & Deps,14673,646.43
-Mongolia,31027,1262.94
-Algeria,34606,486.65
-Italy,4229,1338.74
-Taiwan,3384,489.38
-Israel,46190,1884.2
-Benin,49403,884.9
-Slovakia,24332,26.89
-Taiwan,14854,949.5
-Ukraine,34862,1376.36
-Iceland,13129,593.35
-Trinidad & Tobago,48536,293.89
-Liberia,10690,1565.46
-Cuba,23430,468.05
-Iceland,12457,600.01
-Gambia,10145,911.94
-Azerbaijan,7336,1457.31
-Bulgaria,5848,1951.14
-Iceland,2035,144.93
-Nepal,21730,1523.64
-France,32347,1882.46
-India,43691,1325.89
-Nepal,45957,556.17
-Marshall Islands,31066,294.59
-Japan,9865,270.93
-Bulgaria,19300,922.6
-Kosovo,4841,86.73
-Iceland,32555,1407.74
-Colombia,18497,1776.05
-Aruba,44294,104.22
-Cuba,43640,167.8
-Gambia,31695,458.05
-Ethiopia,25848,310.59
-Barbados,21025,1689.05
-Djibouti,15575,530.97
-Canada,21742,409.77
-Myanmar,49032,1702.97
-Afghanistan,2094,1758.51
-San Marino,20540,155.96
-Bahamas,9558,992.08
-Azerbaijan,49917,561.6
-Vanuatu,6383,769.92
-Aruba,32069,266.47
-Bulgaria,46982,746.99
-Indonesia,44073,1139.86
-Liberia,3828,1357.7
-Djibouti,7174,1175.47
-Vietnam,12996,201.85
-Ukraine,10431,820.37
-Vietnam,30432,43.52
-Colombia,5144,184.93
-Australia,17443,1009.68
-Vietnam,4950,1417.44
-Bulgaria,49818,278.54
-Liberia,25807,1722.03
-Slovakia,13096,517.35
-Eswatini,11912,1714.05
-India,6653,1893.44
-Afghanistan,4379,1958.62
-Canada,46034,1851.58
-Iceland,20960,215.36
-Afghanistan,19367,1217.94
-Bhutan,41060,1651.91
-Aruba,4882,156.87
-Kosovo,10534,287.6
-Costa Rica,31602,60.37
-Kuwait,4604,480.12
-Mongolia,48826,506.88
-Eswatini,29824,1743.29
-Ukraine,49968,709.49
-Mongolia,18606,711.7
-Indonesia,6472,479.98
-Cuba,20987,1592.76
-Vanuatu,12768,1892.25
-Mongolia,8633,824.95
-Albania,49844,83.41
-Colombia,44720,1810.32
-Taiwan,38943,324.8
-Kuwait,37825,1151.27
-Taiwan,37979,1454.59
-Spain,38217,833.14
-Myanmar,21950,1106.0
-Colombia,44568,230.18
-San Marino,49985,1040.89
-San Marino,46001,1136.17
-Taiwan,37740,557.93
-Colombia,43770,471.85
-Kuwait,7968,1864.85
-Australia,49577,1731.59
-Italy,19208,237.69
-Slovakia,3316,961.22
-Nepal,37612,701.98
-Eswatini,16796,1225.18
-Eswatini,35639,1229.33
-Kuwait,39441,576.46
-Canada,36727,1889.04
-Barbados,11818,1291.99
-France,11347,234.78
-Slovakia,12699,1398.06
-Albania,18326,1000.86
-Ethiopia,49676,912.99
-Mongolia,48403,318.21
-Germany,34272,507.26
-Russian Federation,35366,673.35
-Myanmar,18476,1411.3
-Yemen,11431,1506.12
-India,7065,1009.53
-Liberia,19234,1462.42
-Canada,45111,1440.02
-Kosovo,8912,942.97
-Algeria,29901,1293.11
-Vanuatu,7506,1776.85
-Myanmar,2124,870.56
-Liberia,9545,1375.59
-Canada,6738,678.78
-Costa Rica,20599,1993.22
-Japan,17519,1932.68
-Canada,19246,1096.52
-Ukraine,18060,851.26
-Iraq,22457,1998.34
-Slovakia,30805,813.89
-Italy,44808,1352.95
-Afghanistan,49139,518.7
-Costa Rica,39525,1950.64
-Australia,14400,867.03
-Uruguay,21914,1007.78
-Marshall Islands,27749,318.16
-Antigua & Deps,20934,282.82
-Iraq,13099,351.37
-Slovakia,25237,1642.6
-Germany,732,1089.26
-Costa Rica,12920,664.69
-Burkina,30357,242.44
-Taiwan,34807,853.03
-Iraq,27962,1130.17
-Azerbaijan,32948,1871.58
-Albania,25210,1878.06
-Indonesia,11899,630.89
-Cuba,36664,565.01
-Albania,890,1396.31
-Cuba,14567,1911.33
-Algeria,31021,1100.59
-Afghanistan,4171,1330.87
-Djibouti,11939,1221.44
-Iceland,18310,1431.25
-Djibouti,40170,1101.37
-Albania,38474,132.99
-Gambia,23970,232.23
-Barbados,4214,1951.84
-Liberia,34709,222.72
-Ukraine,14034,226.9
-Benin,36305,623.65
-Yemen,26126,1484.38
-Australia,9998,1437.98
-Iceland,42909,216.2
-Ethiopia,36451,1796.04
-France,20475,117.77
-Afghanistan,10310,87.51
-Iceland,20595,337.59
-Afghanistan,31073,1211.44
-Burkina,42611,1888.45
-Cuba,31249,867.51
-Bhutan,18015,144.19
-Colombia,22339,1213.17
-Slovakia,16187,1736.35
-Antigua & Deps,48573,965.03
-Cuba,45085,656.25
-Myanmar,2710,675.85
-Vietnam,2904,389.0
-Australia,15076,879.55
-Barbados,4890,1958.61
-Indonesia,26100,1114.78
-Uruguay,47072,688.63
-Vietnam,36314,771.53
-Eswatini,41462,574.66
-Uruguay,13069,354.25
-Nepal,41262,439.52
-Colombia,10421,1466.22
-Taiwan,29055,1727.56
-Kosovo,12880,1261.53
-Gambia,38472,1786.11
-Albania,33499,1055.25
-Ukraine,29246,797.24
-France,28253,147.67
-Burkina,35933,1878.88
-Azerbaijan,22029,110.03
-Oman,36879,645.52
-Bahamas,34992,990.86
-Afghanistan,12856,36.33
-Vanuatu,11786,1896.94
-Eswatini,34983,604.34
-France,4083,1504.49
-Slovakia,696,933.82
-San Marino,20500,1335.95
-Italy,964,290.08
-Slovakia,25799,142.74
-Oman,4866,27.68
-Slovakia,27702,1102.92
-Armenia,34869,1576.23
-Costa Rica,1925,983.73
-Azerbaijan,4898,664.68
-Barbados,49952,1422.28
-Albania,22651,1372.42
-Colombia,38726,1729.86
-Italy,41717,336.47
-Kosovo,7352,516.22
-India,2744,1370.86
-Nepal,39439,450.76
-Djibouti,35297,1433.46
-Liberia,8505,197.8
-Eswatini,23735,241.02
-Italy,4342,489.78
-Israel,15126,1537.36
-Barbados,17233,1890.26
-Australia,13590,356.36
-Uruguay,43788,877.65
-Benin,20046,1475.04
-Germany,36224,893.44
-Cuba,33734,1201.47
-Spain,36313,875.43
-Slovakia,36941,1514.05
-Bahamas,39513,791.58
-Barbados,4211,223.84
-Liberia,23877,128.51
-Slovakia,18238,470.49
-Gambia,9102,179.5
-Australia,2645,271.69
-Costa Rica,29790,1849.49
-Burkina,30095,1977.01
-Afghanistan,5259,324.76
-Iraq,47999,695.65
-Canada,41293,1883.19
-Vanuatu,41966,162.87
-Israel,8023,1620.37
-Myanmar,20857,46.51
-Aruba,19785,262.25
-Vietnam,25364,17.36
-Spain,13847,1371.74
-Albania,38296,799.87
-Germany,10067,1606.59
-San Marino,23254,244.57
-Kosovo,25132,1607.66
-Kosovo,41817,868.05
-Algeria,41369,1428.6
-Benin,10851,1531.75
-Myanmar,31199,796.63
-Armenia,23334,255.14
-Armenia,23455,320.33
-Bhutan,37320,1898.54
-Oman,1641,1587.61
-Canada,3231,1847.96
-Bulgaria,39039,1101.15
-Barbados,4918,456.65
-Albania,32026,1911.27
-Aruba,36067,953.31
-Vanuatu,6009,1822.85
-Trinidad & Tobago,5277,1010.23
-Japan,40863,1860.32
-Uruguay,8422,306.55
-Azerbaijan,30287,1693.49
-Albania,29916,1025.32
-Aruba,7822,202.45
-Barbados,10801,325.62
-Italy,41521,237.32
-Algeria,16002,805.03
-Mongolia,3905,894.33
-Aruba,45755,892.76
-Bahamas,34353,968.95
-Japan,15108,318.8
-Yemen,23117,160.54
-Germany,16146,930.44
-Australia,28195,1637.33
-Israel,1976,1616.47
-Djibouti,19327,1186.25
-Burkina,5403,979.69
-Russian Federation,16253,1248.45
-Costa Rica,47479,1923.35
-Italy,17009,617.41
-Slovakia,30993,493.36
-Canada,31498,686.25
-Burkina,48449,51.12
-Cuba,35135,92.66
-Israel,23183,1882.55
-Azerbaijan,15017,187.47
-Marshall Islands,1256,1072.39
-Burkina,48784,443.2
-Indonesia,3914,18.1
-Myanmar,39589,224.68
-Afghanistan,2672,1324.83
-France,8737,98.98
-Iraq,18383,1775.94
-Armenia,7942,1690.2
-Trinidad & Tobago,48135,1959.18
-Germany,42455,1818.05
-Japan,16061,826.61
-Eswatini,31169,1738.87
-Eswatini,16272,1140.42
-Kuwait,23261,66.23
-Ukraine,37384,751.98
-Ukraine,35304,549.12
-Iraq,10031,1757.58
-Vietnam,31412,121.02
-Cuba,37312,1675.67
-Bhutan,26559,246.09
-Vietnam,18053,1147.24
-Nepal,46851,800.55
-Gambia,47459,423.17
-Algeria,42404,676.12
-Antigua & Deps,26364,734.87
-San Marino,21153,130.86
-Italy,45838,1608.58
-Colombia,20844,1100.75
-Bhutan,34024,435.15
-Colombia,2434,869.26
-Algeria,22448,1861.67
-Cuba,15794,1205.19
-Algeria,29827,930.62
-Marshall Islands,22147,1457.83
-Vietnam,40582,1558.3
-Iceland,45893,636.13
-Iceland,7531,1389.82
-Marshall Islands,39790,843.81
-Australia,4750,784.5
-Kuwait,29386,1582.07
-Ukraine,44875,1675.8
-Barbados,13805,454.71
-Afghanistan,36694,1367.28
-Ethiopia,26466,1618.74
-Italy,2803,1323.83
-Benin,32052,739.83
-Bulgaria,5208,759.52
-Kuwait,47243,322.59
-Cuba,26705,1284.91
-Bulgaria,33400,1828.98
-Bhutan,20178,130.02
-Barbados,49381,527.36
-Nepal,23193,24.49
-Spain,29435,1754.5
-Russian Federation,2391,544.16
-France,36058,514.38
-Indonesia,241,1778.84
-Barbados,17719,390.4
-Marshall Islands,10794,1346.36
-Armenia,27445,571.77
-Kuwait,8807,826.73
-Costa Rica,12258,1528.15
-Spain,45876,1519.25
-Djibouti,7792,975.19
-Kosovo,44298,412.21
-Vietnam,46356,914.26
-Slovakia,31761,901.31
-Vanuatu,12514,545.3
-Vietnam,1901,1762.0
-Costa Rica,35752,1822.56
-Liberia,13200,179.79
-Slovakia,45179,984.58
-Gambia,9053,626.73
-Colombia,15642,1250.67
-Germany,18438,1066.13
-Marshall Islands,20561,954.11
-Vanuatu,7501,1255.96
-Benin,28097,1291.1
-Germany,7955,715.44
-Australia,29675,156.73
-Albania,2978,489.73
-Burkina,6785,337.87
-Oman,13224,1049.49
-Aruba,11446,1274.16
-Indonesia,47572,1174.65
-India,28813,131.32
-Benin,46793,1350.34
-Albania,8689,780.43
-France,40543,858.11
-Spain,49080,422.75
-Aruba,379,1037.02
-Marshall Islands,23418,1920.38
-Oman,28190,873.31
-Italy,44328,54.22
-Russian Federation,6319,812.57
-Bulgaria,41014,1791.47
-Bhutan,3371,1611.89
-Australia,22014,1731.03
-India,44560,157.47
-Mongolia,19893,1787.28
-Aruba,24153,1071.58
-Colombia,19780,969.86
-France,48810,564.85
-Burkina,4862,1678.85
-Spain,26253,1091.26
-Israel,2199,177.02
-Azerbaijan,7650,1570.37
-Nepal,10950,179.75
-Kosovo,46076,221.86
-Russian Federation,33758,24.17
-Armenia,44266,1282.03
-San Marino,2581,17.42
-Kuwait,7037,1384.57
-Cuba,44478,183.17
-Mongolia,9328,193.35
-Aruba,36441,1287.76
-Colombia,32462,31.31
-Eswatini,11588,370.07
-Mongolia,49554,1321.91
-Gambia,26892,1653.85
-Colombia,21482,576.73
-Aruba,10425,184.94
-Azerbaijan,30110,1062.98
-Bahamas,14743,484.49
-Trinidad & Tobago,19077,1297.81
-Trinidad & Tobago,43597,1556.82
-Cuba,17917,352.55
-Canada,38530,10.58
-Israel,18511,945.64
-Bulgaria,44048,650.61
-Bulgaria,44701,1023.74
-Azerbaijan,8838,1481.95
-Indonesia,17841,1498.52
-Oman,23751,1486.15
-France,9390,1958.63
-Ukraine,45920,96.49
-Djibouti,2152,1807.69
-Australia,31181,1919.21
-Ukraine,12716,133.01
-Djibouti,1471,1993.72
-Colombia,40407,1023.85
-Vietnam,45727,776.53
-Iraq,5793,1740.37
-Eswatini,33943,56.19
-Liberia,17998,98.51
-Bulgaria,40643,997.5
-Nepal,33120,1609.91
-Gambia,3208,782.08
-Trinidad & Tobago,11393,1584.67
-Russian Federation,43632,1231.96
-Djibouti,9873,1307.71
-Burkina,10347,69.73
-Azerbaijan,14444,1405.14
-Iceland,17530,675.77
-Costa Rica,7942,1915.57
-Marshall Islands,15572,1166.4
-Spain,35570,500.47
-Mongolia,2054,1958.65
-Kosovo,46145,1107.85
-Albania,14337,1986.17
-Afghanistan,38435,1970.72
-Bhutan,47421,857.57
-Canada,27108,602.41
-Marshall Islands,17362,976.45
-Azerbaijan,7385,629.1
-Iraq,19796,679.51
-Azerbaijan,10888,888.32
-Cuba,32438,117.99
-Albania,27587,1139.83
-Taiwan,44216,1165.8
-Bhutan,34241,1420.85
-Eswatini,37326,310.5
-Liberia,14084,1760.17
-Gambia,36083,579.87
-Nepal,17177,1750.68
-Bulgaria,26793,29.26
-San Marino,38321,1736.83
-Iceland,18034,1384.12
-Ethiopia,6166,697.25
-Costa Rica,28846,1682.88
-Iraq,32300,1195.46
-Colombia,13875,1564.52
-Afghanistan,2456,1021.96
-Myanmar,14092,229.31
-Bhutan,39374,1337.62
-Armenia,48386,266.63
-Ukraine,29480,1431.72
-Ethiopia,35018,380.55
-Ethiopia,46994,653.4
-Kosovo,27814,461.99
-Liberia,722,1069.48
-Eswatini,39237,716.38
-Barbados,15170,666.1
-Indonesia,32905,1778.89
-Indonesia,37703,1334.59
-Aruba,6661,371.2
-Vanuatu,16567,1703.02
-Ethiopia,11212,819.31
-Bhutan,10191,1795.36
-Bhutan,7439,1293.73
-Spain,31864,32.7
-Marshall Islands,38859,1967.52
-Oman,3066,54.72
-Bhutan,33273,1543.31
-Vietnam,5025,990.31
-Aruba,42545,1506.0
-Marshall Islands,29247,1011.97
-Bhutan,31133,280.38
-Iraq,24641,603.98
-Mongolia,18244,542.61
-Vanuatu,29640,365.7
-Cuba,26989,1269.27
-Iceland,20478,592.61
-Indonesia,2622,1089.86
-Iceland,2459,478.68
-Canada,24949,868.29
-Bhutan,2592,320.02
-Djibouti,36129,187.06
-Armenia,7009,911.73
-India,48642,1552.46
-India,41998,1155.42
-Trinidad & Tobago,8340,421.64
-Japan,4557,935.72
-Nepal,5509,983.06
-Aruba,45652,1607.79
-Kosovo,34240,1916.42
-Uruguay,7697,119.3
-Bhutan,27931,242.4
-Cuba,8672,1442.88
-Ukraine,1467,177.96
-San Marino,33783,597.05
-Australia,22716,382.12
-Costa Rica,39186,802.97
-Bhutan,19184,1821.34
-France,32294,1529.07
-Taiwan,44254,485.9
-Aruba,1846,1235.41
-Benin,29819,1702.59
-Marshall Islands,8830,697.55
-Burkina,20763,1776.83
-Cuba,34812,1219.75
-Bulgaria,37193,1939.7
-Mongolia,255,822.12
-Nepal,49384,1664.42
-Indonesia,13037,727.37
-Uruguay,23737,1750.31
-Marshall Islands,11594,1752.34
-Oman,26965,1680.28
-Liberia,27128,1654.93
-India,41409,1184.63
-Japan,7038,861.76
-Iceland,37527,1372.41
-Kosovo,28896,1585.85
-Australia,36383,1473.07
-Costa Rica,47846,967.93
-Israel,44296,262.57
-Costa Rica,33197,1898.91
-Myanmar,44508,480.15
-Australia,44740,333.71
-Algeria,6410,1751.28
-Iraq,49263,503.71
-Djibouti,22595,1156.25
-San Marino,119,588.24
-Bahamas,17885,1169.94
-Gambia,12298,1972.71
-Italy,1207,812.96
-Liberia,25524,457.81
-Albania,290,1804.35
-Eswatini,41703,820.05
-Spain,45181,1835.28
-Liberia,23054,1975.42
-Canada,44037,15.23
-Azerbaijan,18876,1481.23
-France,36385,176.62
-Kuwait,47034,73.01
-Kosovo,18804,886.58
-Spain,38928,1397.48
-Albania,13849,1133.01
-Italy,36206,1943.58
-Barbados,33908,1884.9
-San Marino,17511,899.93
-Benin,13754,512.01
-Aruba,37838,1095.66
-India,46394,614.55
-France,13127,1603.61
-Kosovo,6642,1373.21
-Trinidad & Tobago,37800,242.91
-Indonesia,32596,828.15
-Armenia,20066,887.99
-Canada,34284,516.39
-Liberia,42377,260.44
-Vietnam,40607,1519.69
-Canada,29968,596.35
-Uruguay,14176,1942.21
-Marshall Islands,8440,1590.48
-Barbados,3212,211.6
-Trinidad & Tobago,27034,1230.79
-Kosovo,19752,47.21
-India,38451,283.88
-Australia,21912,1075.1
-Azerbaijan,33069,276.16
-Aruba,8931,949.78
-Antigua & Deps,7318,441.47
-Nepal,39910,1071.97
-Algeria,36064,746.7
-Costa Rica,6582,349.25
-Liberia,43593,1780.68
-Japan,1774,598.08
-Australia,47778,932.78
-Gambia,45737,1765.16
-Indonesia,36405,985.09
-India,23996,569.74
-Cuba,46036,123.25
-Liberia,6727,1498.14
-France,43120,427.98
-Israel,37693,114.67
-Algeria,44777,431.84
-Bahamas,22473,1519.93
-Kosovo,45816,363.7
-Trinidad & Tobago,18238,798.35
-Italy,14869,1586.98
-Uruguay,24370,1963.27
-Japan,12181,605.67
-Marshall Islands,29412,1732.43
-Israel,12225,1924.79
-Ethiopia,24079,458.67
-Vietnam,6082,1966.42
-Australia,10022,1699.63
-San Marino,7421,127.0
-Uruguay,32829,1557.57
-Spain,2988,228.86
-Ethiopia,14713,790.4
-Eswatini,45394,1585.55
-Colombia,30167,902.55
-France,45617,291.61
-Oman,37265,1115.18
-Japan,3296,1383.02
-Azerbaijan,19042,767.15
-Italy,8087,1905.9
-Cuba,31695,970.78
-Azerbaijan,3633,562.3
-Bahamas,3804,301.77
-Vanuatu,9157,1379.0
-Mongolia,27102,761.9
-San Marino,42761,860.15
-Gambia,22854,1832.14
-Bahamas,46756,841.66
-Kuwait,31623,1272.15
-Kuwait,40823,1866.41
-Iraq,5591,267.92
-Albania,16683,861.99
-Trinidad & Tobago,48039,1675.38
-Mongolia,47174,200.56
-Liberia,2029,1213.34
-Colombia,10656,1611.25
-Yemen,12104,1690.22
-Barbados,29703,182.1
-Djibouti,21836,927.67
-Oman,14947,1718.6
-Burkina,22458,600.21
-Nepal,20751,235.98
-Spain,38568,754.43
-Colombia,5869,814.93
-Bahamas,45934,1597.74
-Kuwait,48086,1463.98
-Yemen,44234,431.46
-Yemen,12408,254.35
-Vietnam,6815,1066.53
-Germany,37084,1541.49
-Kuwait,36251,556.33
-Ukraine,12340,1598.45
-Indonesia,37576,545.06
-Yemen,32695,44.87
-Yemen,24335,753.17
-Aruba,38117,109.68
-Bahamas,49147,1310.51
-Liberia,47144,607.96
-Ethiopia,3866,192.38
-Uruguay,48178,1375.76
-Albania,30461,1829.44
-Afghanistan,13118,104.15
-Benin,20018,1912.47
-Burkina,3794,1150.25
-Canada,29621,1628.78
-Kuwait,5395,163.62
-Iraq,38831,185.19
-Vanuatu,41089,214.65
-Slovakia,21648,732.55
-Oman,2882,562.96
-India,617,351.73
-Aruba,34332,1446.11
-Aruba,41435,1476.28
-Myanmar,7039,1657.73
-Israel,43134,1180.59
-Taiwan,14942,917.73
-Vietnam,45894,960.62
-Gambia,28373,132.89
-Benin,41623,1768.06
-Kosovo,24896,750.15
-Benin,42485,856.34
-Bhutan,48754,1334.65
-San Marino,33972,1894.85
-Canada,23174,1310.13
-Oman,24002,1766.31
-Japan,13156,1425.95
-Indonesia,22461,1740.77
-Slovakia,38985,791.12
-Armenia,33027,1183.77
-Australia,27654,574.57
-Aruba,9362,1555.12
-Ethiopia,10468,907.79
-Slovakia,31626,964.78
-Slovakia,23647,310.21
-Slovakia,16421,1122.19
-Algeria,30167,533.96
-Kosovo,27615,406.38
-Antigua & Deps,6140,1976.89
-Gambia,5810,1359.11
-Myanmar,20195,795.36
-Yemen,49582,301.94
-Barbados,23458,1735.94
-Bulgaria,6344,1391.53
-Burkina,20685,586.58
-Algeria,41871,957.45
-Aruba,3131,1202.22
-Benin,41930,1150.34
-Bahamas,5316,1435.66
-Oman,28672,1289.35
-Vietnam,10959,863.14
-Algeria,41055,252.05
-Kosovo,19410,1974.05
-Mongolia,14159,1525.26
-Armenia,16002,188.41
-Barbados,32224,704.9
-Kuwait,17532,1258.51
-Eswatini,6479,1411.23
-Australia,33769,64.03
-Nepal,13280,1469.54
-Colombia,34118,1916.27
-Trinidad & Tobago,35060,1274.26
-Myanmar,8949,1079.98
-Uruguay,7147,1160.35
-Afghanistan,28201,528.38
-Australia,36235,712.43
-Kosovo,2975,1990.19
-Japan,13192,1502.25
-Iraq,9567,726.58
-Marshall Islands,29912,1727.28
-France,45226,1625.64
-Iceland,40256,760.13
-Bulgaria,40490,803.37
-Vietnam,24269,1477.75
-India,35437,1842.8
-Iceland,38038,1741.47
-Nepal,33720,1674.55
-Afghanistan,47199,1315.77
-San Marino,10889,911.35
-Algeria,44461,1026.21
-Canada,16178,1732.38
-Cuba,3679,582.4
-Italy,18598,1677.79
-Bulgaria,9231,1457.95
-Aruba,14075,187.15
-Vanuatu,26438,201.46
-Iceland,31776,1888.0
-Colombia,24935,1984.53
-Costa Rica,2887,1882.65
-Oman,26885,958.0
-Oman,37398,783.19
-Nepal,21390,230.34
-Italy,26901,1083.87
-Eswatini,15954,1184.56
-Indonesia,5249,458.4
-Russian Federation,32570,892.17
-Gambia,33691,1408.99
-Uruguay,36620,321.32
-India,38542,371.56
-Mongolia,24343,154.58
-Iraq,36625,684.04
-Costa Rica,29067,1088.22
-Ukraine,38167,566.67
-Costa Rica,24495,1094.39
-Algeria,20586,1362.23
-Oman,21341,1263.63
-Indonesia,41892,1406.54
-Italy,29465,857.19
-Antigua & Deps,22943,1727.27
-Kuwait,8010,1367.48
-Azerbaijan,21055,1152.95
-Mongolia,23741,1310.63
-Oman,23386,662.22
-Barbados,3687,1752.06
-Vietnam,2173,1074.24
-Yemen,16405,23.37
-Ethiopia,49966,530.11
-Russian Federation,16620,1005.94
-Barbados,43594,200.18
-Russian Federation,34596,1027.48
-Russian Federation,17340,1680.1
-Italy,30311,1844.56
-Costa Rica,1272,1056.44
-Taiwan,24628,1241.25
-Costa Rica,38961,302.75
-Barbados,19657,1192.28
-Yemen,13632,1270.21
-Gambia,43749,1271.78
-Aruba,39097,1912.99
-Armenia,41823,794.42
-Mongolia,45558,1346.05
-Slovakia,41896,1519.45
-Costa Rica,5733,1898.68
-France,46018,1168.66
-Cuba,33153,939.16
-Albania,9516,1292.22
-Costa Rica,7147,245.93
-Bahamas,13446,1390.12
-Afghanistan,40654,1844.98
-Bahamas,13372,603.73
-Russian Federation,14222,1754.42
-Taiwan,9621,11.95
-Uruguay,7264,1005.63
-Cuba,24474,327.9
-Costa Rica,23680,1483.84
-Marshall Islands,17463,576.73
-Afghanistan,2987,538.9
-Costa Rica,33729,1304.68
-Oman,22276,499.91
-Trinidad & Tobago,34601,705.48
-Djibouti,7378,1974.84
-Gambia,15087,83.9
-Colombia,45896,326.09
-Iraq,32178,1916.55
-Bulgaria,12843,242.59
-Ethiopia,27718,1872.88
-Israel,41316,580.9
-Uruguay,21099,310.67
-Indonesia,9934,320.38
-Italy,33564,1269.95
-Gambia,28345,59.94
-San Marino,40511,904.59
-Vietnam,9950,935.63
-Bahamas,42509,1447.12
-Indonesia,48406,886.67
-Vietnam,45340,1655.22
-Barbados,47768,1545.03
-Bahamas,45394,450.03
-Djibouti,48029,266.75
-Kosovo,42835,346.14
-Mongolia,33826,307.95
-Iraq,35722,1937.89
-Taiwan,27105,1477.26
-Italy,24724,18.91
-Djibouti,45868,1465.18
-Mongolia,24031,1165.97
-Taiwan,15410,240.75
-Armenia,41790,1385.75
-Gambia,39034,1301.39
-Kuwait,4849,1853.28
-Slovakia,30032,766.42
-Cuba,39769,241.81
-Afghanistan,40732,1738.33
-Canada,29449,958.97
-Vietnam,2821,1207.96
-Mongolia,27535,1146.16
-Bhutan,26556,75.11
-Canada,38994,1516.07
-Eswatini,10074,1010.03
-Nepal,26857,474.36
-Antigua & Deps,899,1161.58
-Nepal,21691,590.64
-India,24570,74.87
-Mongolia,16127,1398.69
-San Marino,39422,1959.48
-Myanmar,20402,1033.01
-Barbados,24699,1519.53
-Ethiopia,38020,1005.96
-Trinidad & Tobago,42218,1139.68
-San Marino,4913,1800.25
-Yemen,16652,1975.6
-Spain,6597,1547.24
-Liberia,26625,728.68
-Eswatini,14898,47.16
-Oman,14938,958.64
-Cuba,28229,1935.46
-San Marino,12968,1543.86
-India,48025,1828.25
-Indonesia,38674,369.94
-Vietnam,48708,1743.94
-Ukraine,37441,1021.68
-Ethiopia,47386,1198.52
-Gambia,42457,1754.39
-Nepal,30939,817.48
-Trinidad & Tobago,33361,829.74
-Vanuatu,7589,626.94
-Vietnam,3054,1232.27
-Australia,28651,1575.93
-Eswatini,34686,282.71
-Nepal,22298,1304.11
-Armenia,34352,518.28
-Bhutan,29643,1816.55
-Afghanistan,22475,951.06
-Israel,23541,1415.96
-Bulgaria,43380,1277.65
-Barbados,14544,1689.91
-Afghanistan,2485,426.48
-Italy,32853,543.69
-Uruguay,27652,141.68
-Colombia,27256,988.14
-Israel,41500,829.5
-Bhutan,41826,1386.68
-Ukraine,27138,307.25
-Albania,47200,1273.67
-Vanuatu,18401,1396.93
-France,21305,1307.0
-Djibouti,9768,1411.35
-Armenia,5382,747.34
-Burkina,35090,1232.07
-Azerbaijan,42333,1819.34
-Japan,35315,304.55
-Trinidad & Tobago,24050,878.0
-Japan,24415,1253.49
-Kosovo,19056,1755.57
-India,37690,599.87
-Ethiopia,17045,415.79
-Australia,44591,1215.66
-Burkina,46744,1359.95
-Liberia,28626,1484.13
-Colombia,17141,1749.17
-Israel,39554,1888.49
-Afghanistan,4450,885.15
-Antigua & Deps,6300,1162.65
-Trinidad & Tobago,15274,232.54
-Armenia,14675,511.09
-Aruba,12068,1864.64
-Bulgaria,8557,1710.71
-Armenia,29893,1993.04
-Taiwan,30199,237.13
-Kosovo,25407,1814.45
-India,37661,16.95
-Italy,2968,937.29
-India,5769,1455.84
-Burkina,42361,755.16
-Antigua & Deps,34149,1415.46
-Antigua & Deps,35043,1483.96
-Aruba,10952,533.04
-Bahamas,21094,1248.5
-Marshall Islands,32726,1029.16
-San Marino,48553,1934.46
-Bulgaria,47610,274.21
-Vanuatu,10602,100.35
-Gambia,14691,1818.39
-Marshall Islands,19447,1144.19
-Indonesia,27321,1835.07
-Taiwan,48485,172.17
-Burkina,27756,1470.67
-Iceland,27299,1698.8
-Kosovo,19656,269.72
-Bahamas,41582,1126.16
-Gambia,6659,1094.33
-Ethiopia,1734,1472.9
-Canada,4091,1212.24
-Myanmar,29431,45.21
-Ukraine,48934,971.09
-Kosovo,18463,1370.14
-Slovakia,23951,503.48
-Afghanistan,16474,271.4
-Azerbaijan,4808,1881.12
-Indonesia,1399,1922.95
-Kuwait,2755,1195.56
-Albania,47372,1097.57
-Antigua & Deps,44457,1636.62
-Australia,28735,1927.36
-Indonesia,26622,1774.79
-Kosovo,15515,1067.73
-Nepal,39166,1083.09
-Barbados,48887,104.87
-Eswatini,6994,1110.28
-Australia,19371,1439.68
-Armenia,410,1455.22
-Canada,28098,1267.48
-Iraq,29302,1758.15
-Antigua & Deps,42592,1736.77
-Myanmar,12515,1438.4
-Marshall Islands,29655,1939.4
-Antigua & Deps,4433,894.74
-Uruguay,45316,1978.59
-Gambia,30594,179.38
-Burkina,33087,769.28
-Trinidad & Tobago,3442,1205.3
-Colombia,43297,1734.08
-Algeria,33670,1165.93
-Australia,11212,272.65
-Vietnam,17288,1752.39
-San Marino,5039,1852.85
-Nepal,3013,1400.67
-Iceland,29492,574.4
-Eswatini,47615,456.99
-Bahamas,646,655.16
-Bhutan,545,1695.98
-Aruba,36021,1830.57
-Trinidad & Tobago,26175,190.16
-Djibouti,40169,757.37
-Albania,14935,1634.02
-Trinidad & Tobago,5589,1539.86
-Cuba,47642,1436.47
-Azerbaijan,412,1964.3
-Uruguay,22648,77.97
-Spain,35571,1166.33
-Mongolia,15123,754.8
-Algeria,14155,1526.68
-Kosovo,41893,1879.76
-Yemen,44099,695.25
-Barbados,31399,332.57
-Djibouti,22452,411.05
-Benin,40613,1935.07
-Ukraine,37031,1587.89
-Colombia,44198,1744.04
-Gambia,2585,1237.9
-Russian Federation,19976,1228.08
-Marshall Islands,42054,502.42
-Afghanistan,38718,1098.75
-Bhutan,30756,772.74
-Algeria,7102,707.25
-France,40581,474.07
-Afghanistan,30255,1207.44
-Vietnam,3379,1714.03
-Mongolia,46837,1125.3
-Algeria,15678,1570.85
-Kuwait,42698,1975.17
-Ukraine,40382,296.36
-Benin,1006,1826.18
-Djibouti,43105,1846.31
-Italy,48461,1904.31
-Kuwait,47055,713.37
-Burkina,7676,62.75
-Djibouti,42859,226.22
-Liberia,46551,905.58
-Mongolia,1408,922.44
-Aruba,27482,74.4
-San Marino,11440,1444.94
-Azerbaijan,18082,899.07
-San Marino,28144,596.1
-Vanuatu,28586,1348.21
-Canada,32907,751.1
-Japan,30126,1442.21
-Ethiopia,7860,583.55
-Uruguay,30993,1674.38
-Aruba,33168,1005.85
-France,24005,1614.46
-Germany,42866,1048.5
-Vietnam,18255,1233.7
-Benin,15510,116.46
-Afghanistan,49331,1456.59
-Israel,25339,1244.56
-Eswatini,21763,291.02
-Algeria,38968,886.85
-Aruba,3914,1135.1
-Vietnam,27872,791.66
-Eswatini,45945,1033.87
-Bulgaria,21941,1113.43
-Slovakia,40120,1786.46
-Russian Federation,19644,1970.29
-Nepal,26421,1011.61
-Colombia,28887,249.59
-Indonesia,8771,972.65
-Djibouti,19814,1072.24
-Albania,45737,1233.87
-Germany,19947,1389.87
-Vietnam,26631,801.51
-Spain,7899,230.38
-Burkina,48408,1049.23
-Uruguay,18713,40.95
-Benin,17696,622.52
-Gambia,4564,1256.63
-Trinidad & Tobago,25224,1755.08
-Uruguay,21846,816.68
-Taiwan,45051,1431.55
-Nepal,44731,435.96
-Nepal,37078,1980.98
-Ethiopia,28057,771.84
-Iceland,9381,996.79
-Eswatini,34156,1850.22
-Israel,39182,1778.29
-Iraq,11324,1020.01
-Algeria,22085,610.94
-Azerbaijan,4042,982.48
-Japan,36566,1658.73
-Benin,23131,751.53
-Myanmar,17890,1122.84
-Ethiopia,46730,142.82
-Iceland,24288,1653.09
-Gambia,9966,1046.45
-Russian Federation,46198,1396.28
-Bahamas,18395,1786.62
-Ethiopia,27359,1215.82
-Kuwait,46189,518.14
-Marshall Islands,40644,1923.95
-Vietnam,36178,88.99
-Ukraine,8608,795.98
-Albania,36218,1148.44
-India,48048,169.16
-Kuwait,35904,913.53
-Bulgaria,3769,1145.68
-Burkina,18074,1706.82
-Nepal,24057,799.94
-Uruguay,16775,903.7
-Japan,39355,597.02
-Gambia,33945,1554.48
-Cuba,36012,1979.59
-Vanuatu,32569,1894.51
-Armenia,27057,967.2
-Spain,26226,810.94
-Mongolia,2255,166.2
-Marshall Islands,14603,743.01
-Slovakia,16830,1866.39
-Antigua & Deps,17229,695.64
-Burkina,26450,1254.16
-Kuwait,27236,1355.29
-Slovakia,16173,895.92
-Benin,28084,1532.51
-Myanmar,34196,1600.5
-Indonesia,34676,1849.99
-Ethiopia,46105,1979.77
-India,46183,453.93
-Gambia,46191,274.1
-Djibouti,5981,827.46
-Bhutan,12853,1642.41
-Israel,16473,773.71
-Afghanistan,39768,1904.62
-Indonesia,13092,1372.43
-Italy,42990,1220.67
-Barbados,42208,1582.84
-Colombia,38290,1176.71
-Cuba,2638,996.23
-Antigua & Deps,29642,1381.68
-Indonesia,14735,510.31
-Vietnam,4416,1501.27
-Bhutan,3019,1051.82
-Bulgaria,5446,1311.77
-Trinidad & Tobago,49225,1405.4
-Kosovo,31377,992.72
-France,30013,609.99
-Afghanistan,11338,1666.92
-Colombia,15096,1033.0
-Israel,43106,1527.87
-Vietnam,6026,1332.3
-Myanmar,44374,1722.03
-Germany,29761,838.57
-Ethiopia,38391,1336.68
-Iraq,33877,1709.71
-France,49816,896.54
-Bahamas,36481,327.92
-Slovakia,20240,1226.73
-Uruguay,16799,350.47
-Djibouti,43445,74.12
-Gambia,9077,231.32
-Indonesia,36105,1660.52
-Russian Federation,17225,752.47
-Aruba,17217,889.14
-Cuba,43241,1079.95
-Spain,44288,1502.95
-Mongolia,44655,1302.39
-Iceland,14835,1748.91
-Japan,28384,1613.29
-Iraq,4801,1495.87
-Iraq,24824,227.64
-France,34655,1300.7
-Russian Federation,36739,1807.7
-Armenia,34393,1072.11
-Iraq,1077,992.38
-Nepal,27462,1931.67
-Spain,47508,401.87
-Israel,30245,1330.6
-Azerbaijan,14559,525.72
-Bahamas,39120,1841.52
-India,30102,1259.82
-Spain,38717,1021.63
-Iceland,46672,860.66
-Algeria,27960,1444.1
-Bulgaria,31422,939.49
-Taiwan,37824,524.87
-Canada,15317,1712.94
-Aruba,45377,1139.58
-Japan,4764,1943.46
-Kuwait,10807,875.72
-Azerbaijan,292,1736.34
-Eswatini,21452,856.56
-Ukraine,38149,1650.72
-Armenia,3259,1236.75
-Ukraine,44821,47.52
-Djibouti,28311,937.51
-Costa Rica,18259,869.15
-Bulgaria,20416,1718.24
-France,27533,134.02
-Israel,25287,1578.72
-Ethiopia,38491,1354.45
-Vietnam,21853,1712.17
-Djibouti,35847,1876.82
-India,48280,1464.46
-Germany,12436,1293.53
-Uruguay,6532,487.34
-Afghanistan,29927,1281.4
-Australia,1656,379.2
-Russian Federation,30384,751.9
-Australia,13662,1709.98
-Antigua & Deps,12116,936.7
-Barbados,44746,415.12
-Germany,33711,885.47
-Iceland,34535,1684.87
-Vietnam,1266,1776.49
-Armenia,41803,1775.46
-Burkina,37617,1428.09
-Marshall Islands,19093,216.42
-Albania,1274,1323.76
-Marshall Islands,1646,520.9
-Ukraine,49422,110.53
-Liberia,16468,1475.03
-Trinidad & Tobago,20215,146.72
-Afghanistan,7888,1478.62
-Yemen,12331,526.31
-Germany,15715,451.18
-Liberia,7807,126.27
-Eswatini,26198,35.92
-Marshall Islands,37129,694.33
-Vanuatu,8976,1534.71
-Ethiopia,5722,59.28
-Nepal,26612,568.46
-Colombia,49137,1501.49
-Algeria,19921,868.94
-Albania,7710,506.6
-Algeria,25407,1069.64
-Oman,32288,639.98
-Albania,21182,1475.86
-Bhutan,5412,1829.46
+San Marino 35365 1168.72
+Nepal 38465 134.93
+Mongolia 11788 1455.25
+Vanuatu 28623 1241.08
+Bahamas 42032 1085.69
+Djibouti 25799 1104.99
+Japan 45669 1733.95
+Australia 18208 528.74
+Barbados 36340 1264.36
+Aruba 18346 1791.04
+Colombia 30067 1450.89
+Liberia 36127 188.41
+Cuba 31842 1161.9
+Aruba 35827 1760.47
+Nepal 44795 1958.27
+Russian Federation 2889 1810.19
+Albania 4432 1359.93
+Israel 14267 961.45
+Bahamas 25305 49.92
+Indonesia 23966 224.33
+Colombia 41253 1852.39
+Kosovo 29605 738.1
+Kuwait 16749 998.54
+Benin 28914 522.86
+Bahamas 33575 1183.88
+Benin 31719 66.78
+Kosovo 48021 720.54
+Costa Rica 37498 1977.42
+Benin 21089 1300.34
+Marshall Islands 13260 1835.45
+Myanmar 13127 1254.85
+Yemen 19916 1952.61
+Azerbaijan 22130 58.83
+Djibouti 46204 1834.24
+Israel 14848 507.87
+Ethiopia 30123 1215.4
+Iceland 44964 1459.39
+Ethiopia 1073 654.72
+Benin 43743 765.66
+Liberia 14584 26.47
+Slovakia 35534 1541.99
+Marshall Islands 22748 69.79
+Liberia 2654 1955.72
+Indonesia 22602 25.36
+Afghanistan 25666 453.01
+Mongolia 41603 1082.93
+Marshall Islands 17160 250.68
+Mongolia 5305 1847.26
+Bhutan 23098 1837.57
+Italy 29300 1517.15
+Liberia 5569 1515.2
+Ethiopia 49761 74.66
+Vietnam 22292 1304.79
+San Marino 12490 1579.87
+Vietnam 18099 592.29
+Colombia 9236 1610.14
+Vietnam 37401 774.96
+Slovakia 28984 680.9
+Marshall Islands 48171 1901.41
+Taiwan 42268 1364.76
+Australia 20874 1365.6
+Eswatini 28054 1027.95
+Armenia 46991 1439.39
+Italy 9787 1633.26
+Myanmar 23964 46.82
+Bahamas 21722 1728.54
+Russian Federation 21278 723.8
+Spain 17298 1627.65
+Kuwait 49891 1561.39
+Armenia 26509 1233.82
+Afghanistan 12396 516.27
+Oman 38868 863.52
+Ukraine 9534 46.86
+Bahamas 33690 1738.04
+San Marino 2806 1179.94
+Trinidad & Tobago 39597 128.36
+Yemen 26643 64.31
+Myanmar 6434 1668.09
+Azerbaijan 27515 1386.95
+Marshall Islands 4367 1705.62
+Aruba 15244 629.79
+Slovakia 33252 150.03
+Aruba 7038 1282.31
+Myanmar 1688 679.97
+Oman 26644 33.72
+Kuwait 24468 1624.84
+Uruguay 20820 1970.79
+Myanmar 20430 1662.25
+Djibouti 23486 101.04
+Trinidad & Tobago 2071 1157.85
+Italy 20186 644.94
+India 30020 1425.54
+Colombia 29542 1794.59
+Myanmar 15372 1304.91
+Nepal 9729 1139.4
+Costa Rica 25979 1476.98
+Liberia 41862 488.14
+Bulgaria 12467 1736.69
+Djibouti 36176 104.87
+Algeria 47467 1085.19
+San Marino 27838 204.35
+Israel 41916 429.97
+Cuba 46521 1118.88
+Canada 32794 1110.91
+Antigua & Deps 48853 1566.79
+Colombia 38906 1538.3
+Nepal 31017 977.69
+Spain 6166 1015.94
+Barbados 36902 90.66
+San Marino 14919 968.06
+Bulgaria 19398 1281.06
+Liberia 4039 1930.53
+Burkina 3678 654.66
+Kuwait 28549 1104.02
+Russian Federation 5552 105.23
+Kuwait 13677 1809.65
+Kuwait 13264 1203.63
+Yemen 45317 1754.08
+Iraq 43203 916.22
+Japan 19274 1181.51
+Armenia 22109 819.82
+Uruguay 24618 710.35
+Myanmar 35602 823.68
+Costa Rica 19949 372.6
+Israel 16468 1221.63
+Iraq 43827 757.09
+Azerbaijan 2494 132.08
+Trinidad & Tobago 27621 415.07
+Eswatini 18929 1167.11
+Israel 15243 26.72
+Albania 39888 1605.89
+Bahamas 25854 1019.17
+Ethiopia 12338 1626.12
+Ukraine 49737 1571.81
+Djibouti 34120 934.2
+Albania 39084 1751.42
+Djibouti 25201 939.15
+Armenia 23171 1489.65
+Barbados 35906 1617.62
+Burkina 27991 250.81
+Bhutan 27949 1817.06
+Gambia 29673 895.99
+Vanuatu 47619 523.95
+Australia 48511 118.6
+Antigua & Deps 1296 1652.57
+Gambia 13592 1629.04
+Taiwan 27925 1212.05
+Kuwait 49933 91.51
+Russian Federation 15421 1953.81
+Uruguay 46630 1197.47
+Canada 12186 1152.38
+Gambia 12899 1947.87
+Antigua & Deps 3456 958.39
+Mongolia 108 1866.77
+Ethiopia 12147 176.73
+Kosovo 39899 681.69
+Vanuatu 13690 1071.76
+Oman 29221 653.29
+Azerbaijan 47981 1699.76
+Gambia 21949 53.43
+Liberia 35228 1052.77
+Taiwan 19942 323.27
+Djibouti 4591 343.81
+Iraq 28229 931.8
+Eswatini 8386 1370.44
+Germany 39063 82.35
+Russian Federation 1412 1786.69
+Italy 17134 157.92
+Bhutan 4115 1575.54
+Colombia 6481 1036.47
+Aruba 3699 839.84
+Vanuatu 16080 232.62
+Germany 40905 1822.64
+Burkina 12471 134.24
+Taiwan 22097 294.12
+Bulgaria 25517 1598.45
+Ukraine 13878 1790.48
+Iceland 23756 603.67
+Vietnam 45729 1928.33
+Oman 32628 1743.34
+Russian Federation 3773 1844.73
+Afghanistan 14186 620.86
+Russian Federation 14129 1569.02
+Azerbaijan 38146 140.23
+Japan 11719 1724.92
+Liberia 21236 720.15
+Myanmar 26622 1066.54
+Nepal 15085 630.84
+Yemen 25915 292.69
+Japan 9725 1335.04
+Russian Federation 18146 1208.65
+Albania 32313 765.88
+Azerbaijan 26046 528.65
+Colombia 11203 1839.96
+Liberia 27317 1233.08
+Iraq 46185 103.74
+Eswatini 15894 1978.51
+Bulgaria 11147 441.76
+Japan 27414 1019.63
+Vietnam 38174 522.06
+Iraq 24905 126.45
+Colombia 8310 669.94
+Russian Federation 46146 211.13
+Azerbaijan 806 630.43
+Liberia 9450 637.77
+Trinidad & Tobago 31179 335.07
+Kuwait 19461 1735.49
+Iraq 5383 1143.24
+India 46657 804.32
+Eswatini 8421 1105.58
+Barbados 15007 1626.38
+Mongolia 29837 1122.02
+Trinidad & Tobago 43629 1364.28
+Albania 28163 1569.42
+Trinidad & Tobago 13359 1294.01
+San Marino 13835 1086.02
+Iraq 1333 17.41
+Azerbaijan 31142 1550.87
+Kuwait 28663 837.92
+Canada 26309 1235.31
+Azerbaijan 46934 746.05
+France 46238 1977.77
+Taiwan 17909 1974.11
+Benin 25135 1444.38
+Antigua & Deps 35134 525.15
+Bhutan 3507 1405.1
+Russian Federation 18844 237.62
+Bulgaria 33705 706.93
+Armenia 1583 1389.34
+Azerbaijan 33226 676.41
+Bhutan 1631 595.75
+Italy 18278 1399.65
+Nepal 15937 100.46
+Israel 40325 138.0
+Marshall Islands 17908 974.84
+Vietnam 44551 1581.64
+Burkina 23187 1175.31
+France 17230 739.21
+Armenia 45766 1183.79
+Nepal 39003 1747.12
+Costa Rica 9976 1990.59
+Costa Rica 40390 1854.19
+Cuba 40104 1988.27
+Indonesia 38835 970.95
+Albania 40858 1425.33
+Russian Federation 39088 695.57
+Burkina 32174 813.87
+Djibouti 49809 1029.07
+Armenia 30215 1352.93
+Myanmar 458 1850.91
+Djibouti 19529 25.81
+Yemen 40792 1232.58
+Japan 48489 863.81
+Japan 1074 1648.22
+Trinidad & Tobago 35236 1217.53
+Australia 11983 770.82
+Azerbaijan 23351 1042.53
+Slovakia 40175 1285.36
+Bulgaria 27037 1881.26
+Vietnam 3668 266.32
+Bhutan 26508 1880.11
+Azerbaijan 47106 1535.26
+Myanmar 17742 1218.18
+Taiwan 20331 1765.1
+Taiwan 30832 443.55
+Azerbaijan 26767 1179.38
+Gambia 49931 1066.02
+Cuba 17648 821.38
+India 38145 602.02
+Japan 20814 1296.17
+Djibouti 41178 1444.46
+Vanuatu 47640 556.2
+Vanuatu 49599 1230.85
+Indonesia 17845 628.79
+Costa Rica 46443 389.95
+Bahamas 36926 1200.18
+Burkina 11933 283.42
+Australia 31453 1569.25
+Barbados 49966 574.49
+Uruguay 11372 270.9
+Bhutan 11304 1579.11
+Russian Federation 43214 1206.0
+Azerbaijan 395 1627.78
+Colombia 6377 721.81
+Israel 8595 1492.42
+Oman 40776 1210.78
+Colombia 14153 459.38
+Marshall Islands 21667 364.14
+Aruba 29520 1164.61
+Trinidad & Tobago 9145 1469.43
+Kuwait 6522 568.59
+Azerbaijan 24777 355.76
+Vietnam 36397 908.19
+Iceland 21717 688.7
+Canada 48251 820.58
+Liberia 14065 1985.07
+India 1944 1329.96
+Ukraine 24388 1326.42
+Uruguay 17486 1062.42
+Mongolia 37490 1457.12
+Eswatini 40431 1608.16
+Israel 37783 1290.01
+Myanmar 23058 1259.57
+Antigua & Deps 49458 1413.78
+Japan 18631 433.65
+Italy 48145 1259.31
+Liberia 1740 1998.88
+Mongolia 43639 352.91
+Ukraine 37594 328.59
+Liberia 36254 1232.96
+France 31411 1392.16
+Vanuatu 26373 889.71
+Afghanistan 28503 367.42
+Iraq 15904 962.36
+Kuwait 17717 1391.62
+Kuwait 45435 1787.27
+Taiwan 1901 901.54
+Cuba 14339 418.6
+Cuba 32389 521.9
+Myanmar 1753 1802.48
+Armenia 28545 1064.62
+Mongolia 8780 885.51
+Russian Federation 31153 1402.4
+Costa Rica 24217 1793.9
+Djibouti 33479 335.13
+France 33652 1521.15
+Barbados 30280 1265.55
+Oman 9869 833.73
+Kosovo 45517 162.13
+Aruba 49707 1253.95
+Aruba 32970 1362.82
+Gambia 44030 354.94
+Canada 41221 621.26
+Indonesia 42839 1076.16
+Indonesia 41969 951.62
+India 20879 294.63
+Marshall Islands 20933 932.24
+Afghanistan 40045 1016.89
+Cuba 49415 484.7
+Albania 7037 406.8
+Germany 21766 1646.18
+Algeria 10557 1467.86
+Eswatini 44852 1613.7
+Bhutan 13647 1109.37
+Gambia 6912 1371.31
+Barbados 15884 1009.08
+Azerbaijan 40896 927.19
+Australia 27274 314.04
+Gambia 33111 619.74
+Algeria 35788 1556.02
+Burkina 34831 1856.93
+Vanuatu 28685 1397.59
+Costa Rica 46611 1180.22
+Ethiopia 13592 1008.45
+Japan 9721 1654.6
+France 30248 379.78
+Afghanistan 6773 597.0
+India 35103 342.45
+Algeria 37176 1357.42
+Iceland 3756 923.77
+Antigua & Deps 38970 1707.85
+Afghanistan 33815 1954.38
+Gambia 32361 1408.93
+Germany 3200 301.34
+Mongolia 22636 683.58
+Oman 47234 1414.01
+Barbados 26065 916.56
+Russian Federation 17333 1748.72
+Canada 20424 1665.8
+Vanuatu 23533 1613.99
+Ethiopia 49567 1723.91
+Marshall Islands 14188 275.73
+Benin 45293 329.69
+Colombia 3084 215.5
+Albania 32562 1577.1
+Israel 34658 187.82
+Burkina 28362 1852.16
+Gambia 39171 757.35
+Indonesia 31017 364.36
+Canada 42580 302.01
+Trinidad & Tobago 34338 210.64
+Vietnam 35283 834.53
+India 42456 1030.02
+Trinidad & Tobago 26580 259.01
+San Marino 24094 1779.65
+Trinidad & Tobago 16851 1786.16
+Azerbaijan 17074 804.83
+Ethiopia 2196 951.61
+Myanmar 26765 865.7
+Albania 2295 1194.48
+Barbados 12384 1693.01
+Azerbaijan 5195 1945.5
+Liberia 37614 579.95
+Oman 26952 928.19
+Eswatini 43071 199.73
+Costa Rica 28976 1198.52
+Burkina 32316 69.14
+Iceland 38453 607.09
+Djibouti 48539 1342.42
+Kosovo 23610 1135.46
+Russian Federation 14159 1451.13
+Aruba 36596 1809.09
+Armenia 26721 728.81
+Kuwait 4254 185.94
+San Marino 43248 579.17
+Liberia 37817 1536.3
+Djibouti 29581 339.12
+Benin 29302 1200.91
+Mongolia 9907 802.79
+Trinidad & Tobago 39796 1185.2
+Uruguay 39490 1010.03
+Italy 18452 1852.29
+Cuba 21596 610.33
+Marshall Islands 6207 1376.06
+Kuwait 12900 883.23
+Kuwait 37567 1397.9
+San Marino 17112 1933.97
+Taiwan 20199 1429.08
+Burkina 16340 475.09
+Israel 49250 689.62
+Benin 46859 1587.73
+Barbados 8292 1789.88
+India 30333 1819.41
+Ethiopia 14274 1022.93
+Benin 21756 1757.09
+France 46557 1534.76
+Liberia 15194 1243.94
+Liberia 33824 625.55
+Azerbaijan 33202 869.08
+Djibouti 12830 1290.87
+Mongolia 21947 1132.65
+Russian Federation 14982 270.89
+Japan 40863 374.51
+France 13151 1962.04
+Aruba 30970 1063.95
+Colombia 45085 1020.32
+Spain 10600 430.7
+Djibouti 31418 208.25
+Kuwait 8835 457.34
+Italy 24913 767.16
+Costa Rica 3275 1574.6
+Canada 40929 991.9
+Ethiopia 22741 534.78
+Vanuatu 33467 1470.87
+Bulgaria 26325 581.77
+Vietnam 33980 1770.0
+Ethiopia 29237 1499.36
+Algeria 43167 96.74
+Ukraine 7650 1484.96
+Uruguay 22370 1659.48
+Spain 27308 946.62
+Kosovo 25426 1565.07
+Cuba 21031 1437.43
+Kuwait 48982 731.28
+Benin 24485 931.36
+Canada 49816 227.32
+Gambia 10172 1097.37
+Burkina 19017 481.51
+France 33693 801.42
+Yemen 12614 517.61
+Bahamas 31658 766.32
+Afghanistan 35506 1181.51
+Canada 11120 914.27
+Kosovo 11118 1853.03
+Vanuatu 21364 1035.88
+Japan 38019 820.7
+Germany 29129 1451.77
+Eswatini 23005 584.8
+Albania 21804 1109.21
+Iraq 15298 337.46
+Vietnam 184 1078.95
+Costa Rica 29650 61.04
+Spain 9557 155.43
+Gambia 45754 848.52
+Afghanistan 3769 1809.46
+Djibouti 37801 1545.97
+Vanuatu 44698 1183.15
+Djibouti 5364 269.5
+Trinidad & Tobago 44154 664.52
+Antigua & Deps 5986 1272.46
+Vietnam 46774 137.99
+Gambia 8748 1584.41
+Kuwait 44934 1519.03
+Bhutan 7123 716.3
+Canada 31763 229.35
+Ukraine 12226 869.56
+Colombia 46270 1584.71
+Vanuatu 579 597.02
+Nepal 46189 536.71
+Iceland 39580 1619.41
+Armenia 47492 1207.48
+Armenia 28642 1141.35
+Bahamas 49891 1229.04
+Albania 3571 1731.81
+Gambia 32987 1426.11
+Nepal 1185 1891.19
+Uruguay 14566 570.72
+Myanmar 35904 1792.3
+Djibouti 18377 560.85
+Yemen 37232 816.85
+Iraq 44189 23.6
+Israel 23184 337.9
+Spain 12278 1848.24
+Italy 12938 177.33
+Aruba 11879 1060.1
+Afghanistan 16280 67.13
+Barbados 14182 905.22
+Trinidad & Tobago 29640 166.07
+Armenia 43829 938.32
+Benin 236 944.15
+Colombia 2111 651.37
+France 10747 202.35
+France 13895 579.68
+Canada 47873 1825.62
+Mongolia 10758 650.65
+Marshall Islands 28240 901.53
+Aruba 14783 1428.59
+Aruba 25272 695.55
+Trinidad & Tobago 24894 1962.39
+France 2969 1156.32
+Vanuatu 26276 46.96
+Taiwan 39854 1088.87
+Burkina 32279 1455.51
+Bahamas 46641 983.05
+Antigua & Deps 44645 411.75
+San Marino 36205 571.21
+Ukraine 49028 160.72
+Myanmar 16473 1078.86
+Colombia 7769 1793.86
+Aruba 44635 135.5
+Mongolia 22284 994.42
+Ukraine 43472 552.64
+Oman 43622 196.68
+Barbados 33330 325.04
+Bahamas 14820 54.33
+Djibouti 44366 1153.87
+Japan 18457 274.53
+Kosovo 42784 865.2
+Trinidad & Tobago 10745 1266.59
+Vietnam 3302 1986.07
+Ethiopia 26202 1158.18
+Cuba 48293 789.55
+Antigua & Deps 28730 152.89
+Kuwait 48746 797.39
+Afghanistan 46027 588.85
+Kosovo 35900 702.87
+Algeria 49731 1952.67
+Barbados 13960 1217.98
+Eswatini 42623 753.17
+Afghanistan 44864 1874.25
+Vietnam 39450 1871.11
+Australia 49692 1300.05
+Cuba 24356 1571.95
+Vietnam 19915 445.23
+Albania 17705 1133.36
+Afghanistan 9163 1180.66
+Bahamas 7896 1113.56
+Algeria 24801 560.19
+Armenia 38932 678.34
+Antigua & Deps 12273 929.41
+Gambia 4104 1727.14
+Taiwan 19369 1716.43
+Aruba 34734 237.79
+Japan 3649 363.72
+Russian Federation 7924 1912.01
+Ukraine 9982 1936.07
+Spain 27627 1433.23
+Djibouti 46442 1450.57
+Vietnam 38965 1522.98
+Armenia 40601 1428.16
+Ukraine 12614 1270.24
+Iraq 34551 369.95
+Slovakia 19464 1269.02
+Ethiopia 19467 1906.04
+Uruguay 18741 1310.91
+Aruba 841 526.34
+Albania 37951 1976.39
+Trinidad & Tobago 21335 1284.25
+Ethiopia 704 313.09
+Gambia 16361 54.41
+Vietnam 18006 608.91
+Albania 26555 524.1
+Benin 34321 1952.43
+Iceland 35600 278.63
+Oman 19130 302.77
+Armenia 30640 1251.02
+Antigua & Deps 7943 1525.89
+Cuba 5582 1846.32
+Algeria 16908 742.21
+Iceland 36902 1838.57
+Azerbaijan 10894 474.94
+Antigua & Deps 24070 630.6
+Iraq 24785 848.11
+India 26979 452.98
+Armenia 14896 1265.38
+Australia 19423 148.08
+Nepal 9571 1069.74
+Yemen 7606 1674.54
+Antigua & Deps 13400 630.88
+San Marino 40833 315.68
+Ukraine 40175 980.42
+Albania 36907 727.03
+Iceland 11423 369.37
+Albania 44610 497.76
+Russian Federation 1788 121.48
+Kuwait 48993 724.6
+Costa Rica 24645 1891.78
+Algeria 15452 1429.01
+Slovakia 20184 936.52
+Colombia 3804 380.6
+Russian Federation 27662 261.32
+Australia 43342 1541.78
+Aruba 21638 1412.53
+Uruguay 30369 485.28
+Trinidad & Tobago 28981 332.99
+Gambia 47272 1416.89
+Vietnam 40263 413.36
+Indonesia 593 1546.88
+Italy 40984 566.52
+Algeria 27468 581.26
+Eswatini 29886 458.22
+Djibouti 35237 100.0
+Australia 1214 1885.53
+Oman 2440 552.6
+Bhutan 38294 252.33
+Israel 3722 725.48
+San Marino 34606 514.53
+India 28544 351.84
+India 13985 1902.81
+Albania 32529 131.29
+Algeria 7954 1703.7
+Vanuatu 48357 1314.47
+Trinidad & Tobago 1348 1962.32
+Benin 5625 369.41
+Nepal 18674 793.12
+Australia 21048 1241.58
+Mongolia 19229 932.92
+Benin 19025 1432.62
+Burkina 32742 939.62
+Gambia 48956 781.72
+Yemen 8066 1665.09
+Mongolia 14284 855.85
+Myanmar 49222 1349.06
+Algeria 23973 1188.35
+Japan 10807 279.42
+Bahamas 30066 1974.75
+Iraq 40209 1085.22
+Germany 42887 1543.78
+Gambia 20040 1452.01
+France 42305 263.13
+Nepal 16235 1220.43
+Israel 25927 1447.35
+Israel 31021 641.48
+Burkina 22750 1475.32
+Bahamas 10385 262.0
+Ethiopia 5629 1673.33
+Benin 36881 789.78
+Colombia 37180 20.57
+Bhutan 34666 1814.17
+Italy 43113 108.68
+Colombia 23286 634.06
+Benin 32397 84.61
+Marshall Islands 49622 1870.41
+Burkina 29972 621.48
+Azerbaijan 48662 519.82
+Israel 44157 690.22
+Trinidad & Tobago 10745 1563.57
+Costa Rica 30617 1907.92
+Ethiopia 5935 1025.29
+Eswatini 27933 598.21
+Azerbaijan 15415 459.5
+Germany 6462 773.29
+Russian Federation 41307 1316.3
+Liberia 36358 894.46
+Oman 29221 447.76
+San Marino 23640 28.48
+Liberia 17996 673.3
+Myanmar 18455 829.46
+San Marino 22636 641.24
+Algeria 37106 18.95
+Liberia 19433 625.55
+Canada 28948 413.43
+Colombia 4969 1553.78
+Bulgaria 18767 1841.47
+Indonesia 28907 1901.68
+Spain 20791 1692.9
+Israel 46205 420.08
+Kuwait 37976 913.79
+Russian Federation 10996 128.15
+Vanuatu 31427 1255.56
+India 144 1586.57
+Djibouti 6627 1758.3
+France 44457 1340.28
+Uruguay 20770 528.21
+Kuwait 5147 964.41
+Kuwait 17525 116.26
+Trinidad & Tobago 20692 66.76
+Albania 34394 1540.84
+Aruba 15280 701.35
+Iceland 39154 1161.7
+Iceland 23399 362.26
+France 26013 164.41
+Afghanistan 16625 1211.78
+Cuba 20044 1533.8
+Iceland 45429 1542.26
+Djibouti 23098 1249.27
+Russian Federation 11471 1788.9
+India 3443 1178.0
+Colombia 10990 1777.72
+Trinidad & Tobago 8749 1270.29
+Russian Federation 26033 308.14
+Marshall Islands 451 767.06
+Antigua & Deps 33950 420.76
+Liberia 31407 1718.66
+Afghanistan 27602 1611.52
+Kosovo 19182 567.38
+Armenia 35632 1868.47
+Albania 20606 536.87
+Vanuatu 22025 1038.57
+Ethiopia 31851 83.31
+Trinidad & Tobago 24508 1311.56
+Mongolia 20820 444.08
+Costa Rica 38947 1705.4
+Eswatini 47000 1055.48
+Iraq 48240 1325.23
+Ethiopia 21486 148.44
+India 48394 1663.83
+Colombia 8968 83.58
+Uruguay 7051 1591.85
+Benin 20594 489.31
+Kosovo 9001 958.48
+Bulgaria 15604 1273.74
+San Marino 36814 1996.95
+Myanmar 30017 1961.73
+Antigua & Deps 4982 1567.44
+Russian Federation 43056 60.38
+Vietnam 32379 1663.06
+Spain 34197 185.67
+Gambia 30751 474.3
+France 12498 583.71
+Yemen 44307 1817.76
+Liberia 49844 1944.96
+Italy 32905 724.71
+Algeria 44215 232.49
+Costa Rica 23691 1813.34
+France 18601 1407.68
+Cuba 27940 981.7
+Israel 12968 1588.98
+Ethiopia 20325 1018.58
+Italy 27856 730.71
+India 27060 1571.19
+Yemen 13063 1533.34
+Albania 15512 621.46
+Aruba 14478 777.49
+Albania 30487 314.85
+Bahamas 35842 711.42
+Trinidad & Tobago 49338 358.09
+Armenia 7212 265.24
+Germany 48595 1866.67
+Trinidad & Tobago 602 1078.2
+Colombia 3087 675.67
+Mongolia 47972 1008.69
+Vietnam 13783 1576.14
+Bahamas 23740 1329.62
+Costa Rica 43809 384.47
+Eswatini 42073 1808.22
+Cuba 16929 697.23
+Israel 28388 1321.89
+Vietnam 27592 718.16
+Kosovo 10573 129.52
+Gambia 49629 269.04
+Aruba 9359 212.42
+Barbados 20067 631.68
+Colombia 46764 1934.03
+Mongolia 21406 666.03
+Japan 10056 373.31
+Vanuatu 8137 478.37
+Yemen 49291 1627.31
+Bhutan 25411 1729.84
+Antigua & Deps 27883 988.65
+India 20110 188.4
+Azerbaijan 2732 831.83
+Indonesia 2845 1133.75
+Italy 9407 1083.69
+Bhutan 6909 1587.19
+India 12939 236.58
+Algeria 7069 164.59
+Burkina 14365 1731.39
+Taiwan 1687 897.75
+Spain 20089 240.72
+Albania 48551 685.35
+Vanuatu 17030 936.26
+Benin 42937 1334.56
+Cuba 14655 1657.37
+Oman 9600 406.2
+Iraq 2742 490.75
+Colombia 37866 1641.69
+Gambia 1067 1119.45
+Antigua & Deps 46502 901.35
+Aruba 14988 951.2
+Uruguay 12141 613.38
+Uruguay 26882 916.49
+Marshall Islands 26262 1313.06
+Russian Federation 25332 1581.27
+Indonesia 41888 1575.08
+Eswatini 8691 122.26
+Armenia 49156 1872.87
+Japan 16017 57.24
+France 15143 1643.57
+Djibouti 11554 1700.92
+Iceland 43668 1779.49
+India 3849 236.29
+Japan 45946 1596.51
+Oman 25322 106.06
+Trinidad & Tobago 14073 1941.35
+Marshall Islands 39077 1244.81
+Russian Federation 24504 1414.0
+Bulgaria 18659 695.53
+Russian Federation 29181 726.13
+Oman 9777 1515.89
+Japan 35482 1963.69
+Albania 9868 172.29
+Iraq 11151 997.58
+Aruba 39742 754.94
+Myanmar 40513 1670.27
+Ethiopia 34601 1417.2
+Uruguay 27793 1933.2
+Spain 19161 1888.07
+Colombia 38173 1418.7
+Ethiopia 39641 749.35
+Colombia 40537 1338.11
+Japan 5666 1955.29
+Liberia 12424 1935.21
+Liberia 27564 219.43
+Uruguay 47392 572.24
+Canada 40484 1747.91
+Azerbaijan 10818 1882.29
+Gambia 39926 1243.73
+Liberia 25848 1514.86
+Marshall Islands 3238 1105.18
+Eswatini 33497 659.43
+Aruba 48685 1565.56
+Nepal 38688 744.54
+Kuwait 24933 1182.94
+Eswatini 43979 830.48
+Vietnam 24725 1006.25
+Liberia 15122 292.13
+Uruguay 4764 1960.25
+France 24331 832.61
+Australia 10087 349.74
+Iceland 31416 1028.95
+Liberia 25417 294.03
+Bulgaria 1392 955.5
+Slovakia 33858 494.92
+San Marino 48117 158.43
+Armenia 41175 1669.79
+Bulgaria 25335 720.29
+Spain 30774 653.37
+Vanuatu 7913 496.74
+San Marino 38856 15.6
+Myanmar 17262 151.02
+Nepal 2879 306.98
+Bulgaria 45179 958.03
+Russian Federation 16725 1363.79
+Costa Rica 37092 1585.26
+Albania 5117 962.17
+Colombia 37000 618.36
+Germany 4545 262.19
+Algeria 1931 1305.07
+Aruba 36758 419.37
+Germany 8265 465.48
+Azerbaijan 16516 1833.31
+Albania 15784 1710.73
+France 30713 1987.54
+Antigua & Deps 31351 1462.64
+Eswatini 48395 1971.41
+Gambia 421 964.19
+Ethiopia 8704 1341.87
+Trinidad & Tobago 9868 1764.71
+Bahamas 12014 1767.14
+Japan 964 1505.34
+France 32155 682.71
+Germany 20662 1191.32
+Yemen 21641 1434.4
+Mongolia 49478 144.48
+India 19421 1280.5
+Mongolia 17893 747.65
+Barbados 7463 583.51
+India 11604 410.11
+Spain 14995 608.81
+Barbados 26029 1246.48
+Oman 25888 86.99
+Germany 16263 630.55
+Kuwait 42234 36.96
+Cuba 37915 270.74
+Bahamas 41829 1651.96
+Colombia 35862 1636.07
+Oman 19310 1380.21
+Burkina 38430 995.37
+Yemen 46721 1637.34
+Bahamas 47516 1201.93
+Indonesia 31217 1836.69
+Slovakia 49259 1128.09
+Japan 21840 808.46
+Kosovo 6740 405.13
+Nepal 44322 535.67
+Israel 30001 1700.35
+India 9898 1200.05
+Yemen 1602 1422.62
+Armenia 29633 960.52
+Yemen 13911 1494.59
+Spain 21486 546.78
+San Marino 33077 227.23
+Kuwait 40145 1578.54
+Ethiopia 24020 1464.24
+Marshall Islands 31444 1901.24
+Bulgaria 11662 1154.7
+France 2271 229.48
+San Marino 44932 1302.26
+Vietnam 47859 708.75
+Marshall Islands 19227 1472.62
+Iceland 19935 1032.08
+Kosovo 43440 639.61
+Liberia 15604 1401.45
+France 46590 1657.71
+Kosovo 49576 164.6
+Japan 9912 1082.43
+Israel 40077 37.51
+Iraq 16664 832.54
+France 26074 1030.01
+Burkina 22201 1759.91
+Costa Rica 39393 205.59
+Trinidad & Tobago 44733 1752.48
+Marshall Islands 8064 147.09
+Trinidad & Tobago 36114 977.44
+Vanuatu 8034 884.86
+Germany 38134 1624.38
+Azerbaijan 13843 948.84
+Italy 41610 228.41
+San Marino 6048 1089.14
+Uruguay 21115 178.51
+Myanmar 32788 728.43
+France 44878 680.28
+Bulgaria 37468 1704.35
+Liberia 8702 911.0
+Cuba 43982 1425.22
+Ethiopia 41710 1094.49
+Indonesia 30913 1882.8
+San Marino 27100 1266.14
+Indonesia 14302 664.97
+India 25827 563.35
+Taiwan 30219 1873.19
+Australia 19471 1804.81
+Trinidad & Tobago 47460 1469.0
+Eswatini 21887 1791.07
+Trinidad & Tobago 12117 957.49
+Canada 25489 1041.42
+Kuwait 9135 634.29
+Oman 23390 1053.69
+Bhutan 24387 521.31
+Kosovo 32533 193.23
+Aruba 16505 1970.89
+India 36698 1613.7
+Iraq 44114 1194.58
+Azerbaijan 36592 46.22
+Ukraine 37814 475.22
+France 18056 1520.74
+India 14772 309.29
+Vietnam 17005 103.99
+France 3214 1792.7
+Bhutan 23629 467.48
+Trinidad & Tobago 43455 558.14
+Kuwait 29229 582.73
+Taiwan 7205 734.43
+Oman 32982 1510.13
+Germany 37900 777.94
+Afghanistan 5557 1707.91
+France 9083 1444.9
+Costa Rica 24327 237.67
+Kuwait 22610 1995.63
+Ethiopia 499 359.46
+Marshall Islands 20119 249.94
+Vanuatu 34736 92.85
+Germany 25857 1437.56
+Armenia 4267 114.95
+Israel 38415 1108.53
+Barbados 14608 169.64
+Germany 46333 1644.15
+Colombia 28983 1272.0
+Aruba 2302 530.87
+Bahamas 16037 1414.49
+Vietnam 9497 1777.76
+Bhutan 42454 1923.92
+Vanuatu 47940 1348.24
+Myanmar 24059 190.6
+Ethiopia 27319 173.27
+Liberia 26076 173.79
+Iceland 29783 1667.26
+Armenia 14086 148.87
+Eswatini 44457 767.62
+Albania 12271 532.48
+Indonesia 40217 518.44
+India 49954 1735.79
+Armenia 6468 1595.26
+Taiwan 10802 1756.63
+Germany 41033 814.63
+Ethiopia 17107 1006.33
+Albania 10995 1944.71
+Iceland 27341 1371.8
+Italy 23874 858.45
+Italy 12438 436.49
+Algeria 24582 1349.85
+Burkina 22035 443.88
+Bahamas 1147 196.67
+Albania 37905 653.63
+Ukraine 39378 717.28
+Cuba 12070 609.03
+Cuba 6583 331.62
+France 9338 1382.19
+Trinidad & Tobago 16600 731.64
+Djibouti 38130 986.83
+Iceland 4325 277.48
+Taiwan 19346 480.29
+Oman 43758 1712.65
+Russian Federation 48861 1089.17
+France 22966 600.19
+Burkina 15049 1352.29
+Yemen 32178 1571.87
+Australia 28087 1642.96
+Eswatini 38375 192.66
+Cuba 49702 1101.91
+Aruba 6043 1577.68
+Yemen 38028 1084.91
+Albania 19333 1129.25
+Liberia 29341 1604.9
+Bahamas 44968 809.06
+Costa Rica 16074 455.52
+Australia 21954 1449.88
+Russian Federation 45243 1256.89
+Israel 23412 23.77
+Gambia 12562 704.56
+Ethiopia 39452 174.71
+Barbados 19641 634.38
+Antigua & Deps 26896 476.26
+Bhutan 45264 1748.28
+Azerbaijan 2927 1941.86
+France 49319 827.88
+Iceland 40862 455.64
+San Marino 29720 239.19
+Myanmar 36520 1504.64
+Yemen 43523 552.38
+Spain 16361 639.41
+Slovakia 19062 1386.82
+Marshall Islands 16530 822.24
+Bhutan 25415 1688.35
+Djibouti 32355 1284.72
+Afghanistan 7954 43.59
+Iraq 33826 1128.39
+Trinidad & Tobago 9752 1387.59
+Ukraine 11265 1288.58
+Myanmar 2856 830.21
+Canada 6936 1066.26
+Vietnam 31090 1908.34
+Japan 18660 752.89
+Barbados 47680 1597.79
+Afghanistan 40949 1940.07
+Kuwait 12970 153.06
+Bhutan 41582 615.65
+Nepal 16865 1774.87
+Uruguay 12901 246.02
+Oman 43686 901.33
+Bulgaria 7314 328.29
+India 1329 242.23
+Mongolia 22288 400.86
+France 14058 967.58
+Indonesia 33403 1517.06
+Kosovo 19496 794.65
+Albania 20866 220.64
+Mongolia 39476 1341.97
+Iraq 39690 1638.12
+Ukraine 25058 10.77
+Iraq 8617 280.62
+Armenia 42849 908.33
+India 17938 390.81
+Ethiopia 17980 39.68
+Kosovo 43935 358.06
+Vietnam 8105 1880.6
+Nepal 45628 1753.66
+Bhutan 17651 1363.24
+Armenia 42529 801.44
+Gambia 31993 1407.36
+Albania 5449 949.87
+India 35689 518.27
+Oman 2597 579.71
+Taiwan 44936 1228.07
+Russian Federation 33126 1808.31
+Germany 48003 1165.01
+Ukraine 33498 461.61
+Spain 26160 1809.83
+Eswatini 24551 1071.92
+Vietnam 21952 932.51
+Spain 35973 220.85
+Cuba 16914 964.18
+Liberia 21345 368.2
+Eswatini 15790 1814.3
+Trinidad & Tobago 46036 162.76
+Australia 39996 1580.73
+Israel 44471 1270.22
+Ukraine 27889 335.92
+Yemen 14680 1005.21
+Ukraine 12543 1950.93
+Russian Federation 31767 1797.68
+Taiwan 19583 1254.11
+Vietnam 36708 583.23
+Slovakia 14519 1759.59
+Albania 3536 1969.67
+Algeria 40128 17.5
+Vanuatu 3423 1240.36
+Gambia 47222 1285.59
+Israel 2618 1969.85
+Yemen 4038 1503.56
+Aruba 13086 91.7
+Canada 40546 585.49
+Australia 46289 1955.62
+Bhutan 257 831.91
+Colombia 47315 1109.81
+Ethiopia 11188 276.17
+Iceland 15817 679.29
+Cuba 14702 81.62
+Slovakia 26941 1622.24
+Oman 35586 874.67
+Armenia 17331 413.38
+Armenia 24793 1376.17
+Armenia 42483 1572.67
+Costa Rica 878 730.54
+Cuba 36137 1038.06
+Indonesia 15087 734.86
+Kosovo 6188 361.89
+Kuwait 37377 762.75
+Kosovo 38375 1843.5
+Burkina 5625 495.09
+Vanuatu 9214 1288.65
+Iceland 3378 727.04
+Aruba 18057 1887.24
+Afghanistan 12037 20.88
+Benin 48857 1469.49
+Cuba 4495 59.91
+Armenia 14185 1511.87
+Germany 45906 1482.21
+Indonesia 15274 1026.31
+Myanmar 48920 1660.65
+Italy 17274 508.58
+Bulgaria 29023 826.95
+Aruba 33476 209.54
+Marshall Islands 18180 536.54
+Ukraine 22345 660.88
+Taiwan 1075 508.38
+Marshall Islands 20491 1816.99
+San Marino 21704 385.0
+Aruba 336 880.67
+Indonesia 44784 694.47
+Iraq 10266 1160.03
+Bahamas 9487 1908.14
+Canada 24680 1568.04
+Azerbaijan 14747 1226.78
+Nepal 4476 1140.19
+Kuwait 43103 1778.51
+Oman 8497 1606.09
+Japan 40962 1487.12
+Antigua & Deps 16638 720.74
+Uruguay 36622 575.6
+Vietnam 10359 1599.81
+India 49864 893.89
+Aruba 41200 614.73
+Aruba 11246 986.97
+Uruguay 44799 1281.23
+Yemen 27872 1627.83
+Trinidad & Tobago 25802 1221.08
+Australia 39360 1310.36
+Australia 49229 1655.83
+Iraq 13498 1164.59
+Vietnam 48798 1254.46
+Aruba 39679 893.76
+Australia 5771 1360.54
+San Marino 36833 589.95
+Japan 49375 1544.81
+Yemen 42585 1167.54
+Japan 47714 1377.28
+India 46238 214.32
+Nepal 37804 778.07
+Vanuatu 3502 1210.58
+India 14054 741.72
+Eswatini 818 1349.74
+Taiwan 35551 1450.91
+France 5691 453.82
+Vietnam 2309 133.89
+Marshall Islands 881 1694.66
+India 13780 1123.2
+Costa Rica 21636 1883.62
+Kosovo 39958 1215.55
+Italy 35405 1624.14
+Australia 27926 148.04
+Trinidad & Tobago 34342 1339.46
+Russian Federation 17661 621.15
+Bhutan 18463 356.46
+Ukraine 14774 692.13
+Afghanistan 28227 1494.19
+Russian Federation 777 1015.96
+Iraq 162 39.49
+Australia 32033 784.09
+Iceland 4385 1006.65
+Slovakia 39357 1378.15
+Israel 20201 1827.25
+Algeria 5959 109.58
+Albania 27497 1024.58
+Colombia 27844 909.26
+Spain 36281 601.15
+Russian Federation 49007 1013.52
+Aruba 4832 1021.07
+Albania 34644 1094.58
+Nepal 38720 1545.02
+Canada 10871 343.09
+Yemen 31635 1079.13
+Nepal 23549 286.64
+Myanmar 2387 421.04
+Russian Federation 49444 1916.48
+Albania 16395 567.81
+Bahamas 418 1065.47
+Burkina 28497 771.14
+Oman 38570 1170.44
+Marshall Islands 14783 1710.24
+Eswatini 42723 558.41
+Israel 25572 1960.63
+Eswatini 18147 971.54
+Colombia 24405 1661.57
+Uruguay 11101 1271.98
+Marshall Islands 12020 884.12
+Iraq 45465 800.8
+Ukraine 20073 923.24
+Ethiopia 41895 302.85
+Djibouti 37535 114.06
+Costa Rica 29300 1797.0
+Canada 8020 1297.55
+Armenia 4287 1673.96
+Eswatini 18027 1931.83
+Italy 6151 1090.57
+Afghanistan 37117 222.06
+Bulgaria 536 1484.01
+Afghanistan 26221 1609.54
+Uruguay 34613 1496.93
+Nepal 19842 420.64
+Algeria 23827 1037.62
+Djibouti 14321 1005.82
+Uruguay 9321 1791.51
+India 3404 409.69
+Marshall Islands 33300 1528.17
+Algeria 10706 162.8
+Gambia 46505 849.46
+Australia 29878 1964.31
+Barbados 25926 286.41
+Burkina 4304 442.88
+Spain 12168 513.33
+Oman 30730 17.56
+Mongolia 39863 503.17
+Iraq 16744 638.15
+Yemen 48550 655.13
+Azerbaijan 33788 1297.43
+San Marino 30198 1809.97
+Italy 46194 1765.39
+Barbados 19841 1732.08
+Vietnam 43796 1418.13
+Marshall Islands 39227 332.89
+Kosovo 47529 531.62
+Aruba 21194 1592.35
+Colombia 11895 435.72
+Iraq 46462 1928.0
+Aruba 36608 612.33
+Liberia 24587 873.18
+Taiwan 31727 41.08
+Japan 7581 1917.99
+Liberia 48258 1616.65
+Myanmar 43854 137.93
+Azerbaijan 13472 558.03
+Iceland 19991 1085.75
+Slovakia 30058 44.49
+Vanuatu 43779 152.12
+Israel 33251 342.79
+San Marino 34345 993.72
+Bhutan 11893 1391.76
+Costa Rica 15531 776.6
+Nepal 38979 1222.14
+Costa Rica 10021 189.8
+Nepal 29721 819.33
+Bahamas 48549 1656.24
+Myanmar 27061 1784.22
+Kuwait 35144 249.35
+Antigua & Deps 32624 109.24
+Kuwait 20156 1929.47
+India 6498 1505.71
+Iraq 47774 1998.99
+Bhutan 40293 1788.19
+Myanmar 10289 996.77
+San Marino 33042 1094.15
+Kosovo 11407 1837.73
+Liberia 22161 423.22
+Germany 41383 471.89
+Bulgaria 3460 1162.34
+Mongolia 46106 446.11
+Djibouti 14428 1776.21
+Italy 20474 504.25
+Ethiopia 32161 52.94
+Mongolia 38943 233.78
+Slovakia 9582 22.63
+Antigua & Deps 8503 422.3
+Vietnam 25713 158.03
+France 17121 948.7
+Iceland 45840 1769.12
+Costa Rica 26935 1754.24
+Germany 23986 1050.79
+Taiwan 46634 1021.3
+Trinidad & Tobago 25435 1925.02
+Antigua & Deps 1972 1829.04
+Azerbaijan 19834 1049.31
+Slovakia 2027 59.31
+Ethiopia 40706 50.71
+Antigua & Deps 48923 1391.51
+Japan 30959 1915.07
+Slovakia 40023 1464.6
+Benin 42978 1544.41
+Gambia 38777 951.97
+Armenia 14258 1669.94
+Iceland 2390 1833.06
+Bhutan 10884 129.71
+India 36130 1731.83
+Myanmar 20502 359.76
+India 32999 1305.2
+Algeria 41795 1587.0
+Trinidad & Tobago 1112 1868.67
+Antigua & Deps 43042 907.23
+Canada 29598 1429.74
+Algeria 45365 1839.49
+Uruguay 5821 1103.13
+Mongolia 1551 1053.2
+Ukraine 45140 1923.42
+Ethiopia 26752 528.93
+Spain 12674 1579.34
+Azerbaijan 17166 1565.74
+Mongolia 44650 510.16
+Canada 37202 1278.67
+Uruguay 46479 1884.81
+Kuwait 39729 158.02
+Gambia 46579 1610.92
+Trinidad & Tobago 25744 1160.63
+Australia 48219 564.9
+Afghanistan 32463 1571.25
+Gambia 34030 444.09
+Marshall Islands 27572 1272.05
+Cuba 4762 424.39
+Bulgaria 26989 1234.53
+Iraq 24049 1783.81
+Albania 44936 390.35
+Bhutan 34516 1013.39
+Bahamas 7493 1835.2
+Indonesia 10771 127.3
+Kuwait 10154 518.88
+Indonesia 6240 1462.75
+Benin 17229 744.84
+Trinidad & Tobago 14149 669.79
+Cuba 32576 426.49
+Russian Federation 29836 1345.3
+Bulgaria 22607 36.63
+Taiwan 27415 1069.54
+Ethiopia 26652 663.52
+Oman 9447 1369.65
+Uruguay 23647 1173.54
+Iceland 45582 277.3
+Iraq 26350 437.84
+San Marino 21051 742.52
+Nepal 33006 383.24
+Indonesia 44086 1387.0
+Taiwan 44984 1175.96
+Israel 48740 1774.93
+Vanuatu 27225 1200.58
+Italy 19002 1600.53
+Nepal 22870 1183.14
+Benin 1441 1395.81
+Aruba 4608 801.84
+Yemen 8037 1129.87
+Algeria 47708 780.27
+Slovakia 12529 1163.52
+Germany 21413 162.62
+Eswatini 2049 217.2
+Australia 43901 875.95
+Israel 14636 133.55
+Russian Federation 38768 566.33
+Russian Federation 30952 1640.43
+Bulgaria 10519 1457.02
+Kuwait 17589 313.02
+Iraq 9745 129.65
+Barbados 2854 1801.74
+Marshall Islands 5865 587.47
+Myanmar 33027 1550.5
+Benin 36656 727.85
+India 42961 1262.92
+Liberia 4675 1964.46
+Armenia 24725 56.92
+Bulgaria 39639 1270.23
+Italy 27104 767.8
+Bhutan 16582 892.43
+Japan 37516 1923.25
+Japan 27369 1825.93
+Taiwan 658 1900.04
+Vietnam 46092 1393.54
+Ethiopia 49107 1095.26
+Afghanistan 26819 255.59
+San Marino 11411 35.3
+Vanuatu 4583 327.6
+Spain 5892 518.11
+Afghanistan 17753 214.85
+Benin 33791 1383.08
+Cuba 29941 1324.8
+Cuba 30449 1374.16
+Japan 17940 1234.61
+Kosovo 6246 515.95
+Bhutan 36719 1400.37
+Aruba 38295 308.12
+Ethiopia 33391 1200.16
+Antigua & Deps 30872 1886.39
+Myanmar 6082 271.69
+Benin 33595 1013.08
+Bhutan 13148 908.39
+Vietnam 49975 613.1
+Colombia 41874 1237.05
+Yemen 44616 1812.51
+Canada 31111 195.73
+Canada 9388 123.06
+Slovakia 6743 212.75
+Yemen 2054 54.47
+Barbados 18280 1167.9
+Iceland 15829 1245.06
+Azerbaijan 49942 1148.51
+Uruguay 6106 1270.25
+Spain 37746 592.79
+Marshall Islands 49563 548.88
+Marshall Islands 24411 1957.65
+Canada 27796 578.75
+Slovakia 49560 550.87
+Colombia 46898 1659.1
+Algeria 37491 460.01
+Taiwan 9498 656.07
+Bahamas 12086 1376.47
+Burkina 26909 1614.95
+Ukraine 14439 1761.47
+Vietnam 36067 914.63
+Mongolia 18572 972.04
+Gambia 33162 1383.27
+Israel 39529 1558.88
+Gambia 48854 1938.38
+San Marino 42916 1957.0
+Japan 28658 674.43
+San Marino 44561 1303.87
+Aruba 46956 1221.96
+Ethiopia 29917 1175.12
+France 47496 150.93
+Algeria 4055 1266.08
+Eswatini 31424 876.34
+Slovakia 26445 362.47
+Armenia 33898 199.79
+Djibouti 41147 1888.82
+Iceland 7581 1234.38
+Benin 40114 1550.2
+France 15812 263.95
+Slovakia 18642 287.9
+Iceland 34758 1586.44
+Azerbaijan 41509 476.94
+Iceland 31961 113.25
+Algeria 12792 1701.65
+Costa Rica 19158 912.29
+Indonesia 15534 1274.46
+Japan 34438 118.99
+Trinidad & Tobago 10371 20.2
+San Marino 25248 1404.63
+Aruba 39110 1577.27
+Benin 26841 1550.84
+Italy 4870 48.54
+Albania 3209 1657.36
+Marshall Islands 21338 612.51
+Afghanistan 18144 1848.69
+Slovakia 20284 735.54
+Liberia 3828 142.07
+France 34676 46.81
+Ethiopia 46237 801.31
+Colombia 47669 762.34
+Eswatini 26616 791.4
+Canada 7475 919.84
+Antigua & Deps 33856 1484.03
+Kosovo 14560 1535.55
+Uruguay 9589 637.87
+Italy 8578 597.6
+Taiwan 16143 465.92
+Albania 38412 1246.34
+Benin 23144 1082.65
+Bulgaria 46692 1097.8
+India 11779 741.49
+Kosovo 19256 1141.82
+Indonesia 31450 1807.41
+Colombia 2850 1368.01
+Italy 3012 1202.08
+Antigua & Deps 36485 511.9
+Mongolia 34986 730.55
+Vietnam 48576 1549.03
+Algeria 3616 221.74
+Benin 5730 205.46
+Armenia 48921 931.14
+Albania 9015 758.93
+Ukraine 43549 924.07
+Costa Rica 11938 228.63
+Gambia 49073 1744.21
+Indonesia 40794 1945.28
+Marshall Islands 37656 253.23
+Japan 3987 1260.76
+Azerbaijan 45211 1557.37
+Kosovo 11807 112.3
+India 7259 674.84
+Vanuatu 25908 155.05
+Kosovo 18987 1693.54
+Kuwait 33757 756.62
+Ukraine 959 206.38
+San Marino 2436 1680.97
+Costa Rica 11172 110.15
+Marshall Islands 23918 1974.4
+Japan 24147 371.74
+France 1603 1211.8
+Marshall Islands 48037 633.59
+Barbados 30930 1151.02
+Cuba 8141 53.0
+Albania 8010 885.55
+Bulgaria 21304 816.7
+Costa Rica 45394 1839.97
+France 46911 1948.17
+Colombia 12842 1166.54
+Ethiopia 7134 746.01
+Djibouti 2251 459.11
+Iraq 26228 1247.1
+Armenia 19699 916.57
+Ethiopia 38125 1879.87
+Burkina 45099 1645.1
+Eswatini 1587 1863.06
+Uruguay 22525 36.42
+Marshall Islands 9438 347.63
+Costa Rica 14040 817.76
+Indonesia 45903 1256.66
+Djibouti 41882 786.23
+Costa Rica 34823 1747.31
+Colombia 3303 540.86
+Spain 39792 442.98
+Spain 29242 1087.02
+Kosovo 11545 439.57
+Japan 22126 688.29
+Armenia 4339 1288.73
+Cuba 13464 160.51
+Israel 25466 666.12
+France 44923 502.91
+Vanuatu 9356 1415.88
+Uruguay 31297 1365.43
+San Marino 44211 582.97
+France 19653 1607.64
+San Marino 7131 312.69
+Canada 3416 1937.01
+Bahamas 659 1439.25
+Russian Federation 7024 1693.94
+Gambia 21126 67.52
+Algeria 40907 1322.23
+France 8047 229.66
+Taiwan 14751 75.61
+Vanuatu 19114 1043.34
+Marshall Islands 28896 714.1
+France 7249 553.14
+Iraq 19269 43.5
+Colombia 32846 857.51
+Myanmar 12516 1837.02
+Russian Federation 2694 1198.25
+Japan 38655 1648.27
+Yemen 47785 1565.36
+India 17127 1946.67
+Bulgaria 9227 1427.83
+Marshall Islands 24302 808.4
+Eswatini 6966 263.8
+Japan 40305 205.84
+Armenia 13540 1644.48
+Canada 17578 266.73
+Algeria 32944 1931.92
+Gambia 968 710.85
+Vietnam 12386 450.15
+Myanmar 7811 1076.59
+Bhutan 6203 761.23
+Germany 31985 788.71
+Costa Rica 34011 1768.21
+Armenia 29630 1523.49
+Vietnam 20599 98.57
+Israel 26735 37.8
+Djibouti 33300 1266.51
+Kuwait 45960 809.86
+Marshall Islands 44176 603.0
+Iceland 45171 1736.59
+Italy 11730 733.89
+Eswatini 16060 166.04
+Cuba 2332 75.63
+Albania 13114 248.14
+Oman 15827 494.2
+Bulgaria 41355 1948.19
+Kuwait 45610 247.57
+Azerbaijan 33068 743.52
+Gambia 13804 1831.01
+Ethiopia 36800 631.84
+Barbados 32904 723.59
+Eswatini 30866 1471.56
+Nepal 4413 556.63
+Gambia 3589 1054.71
+France 8845 1157.15
+Japan 31244 1778.84
+Gambia 35297 1255.4
+Spain 28771 303.03
+Myanmar 49374 870.37
+Iceland 36687 378.4
+Oman 6946 239.76
+Barbados 41356 1192.28
+Bulgaria 29577 1904.0
+Algeria 26635 1061.85
+Ukraine 24429 203.38
+Liberia 2617 156.21
+Albania 23341 891.69
+Gambia 40559 129.46
+Vanuatu 12035 1915.69
+Barbados 11639 607.27
+Liberia 6912 1330.92
+Gambia 20963 1261.33
+France 32050 1070.21
+Myanmar 18871 689.94
+Aruba 20943 1356.85
+Marshall Islands 14066 851.31
+Liberia 24989 140.98
+Australia 28766 70.03
+Benin 10074 823.87
+Albania 15512 1514.58
+Russian Federation 44692 730.76
+Iraq 17294 977.42
+Japan 47123 1304.37
+Trinidad & Tobago 28330 1384.48
+Trinidad & Tobago 23264 669.0
+Algeria 44263 282.85
+Costa Rica 7828 692.01
+Afghanistan 31127 1764.65
+Ukraine 25082 328.5
+Costa Rica 22686 404.49
+Gambia 19037 267.66
+Azerbaijan 20982 938.97
+Canada 8171 950.33
+Uruguay 38273 1704.99
+Russian Federation 21137 1161.24
+Gambia 28777 1059.46
+Kosovo 16543 1931.66
+Japan 26697 1424.19
+Liberia 15083 1026.42
+Mongolia 6213 1649.64
+Slovakia 45436 1608.98
+Nepal 36103 1295.54
+Marshall Islands 36753 398.66
+Taiwan 28436 225.27
+Ukraine 1569 1833.33
+Ethiopia 2447 866.33
+Uruguay 5781 508.86
+Italy 27137 1889.41
+Canada 39841 302.31
+Aruba 18068 1241.31
+Yemen 32124 1847.69
+Afghanistan 49852 1637.69
+Ukraine 11835 1995.6
+Iceland 19219 1749.7
+Oman 45911 209.66
+Uruguay 48515 1870.76
+Aruba 31396 1331.18
+Trinidad & Tobago 15365 1098.46
+Oman 46232 1174.1
+Canada 46719 1068.59
+Yemen 26078 1223.29
+Kosovo 19571 191.82
+Vietnam 48880 1737.37
+San Marino 39636 1867.47
+Djibouti 30523 1929.89
+Benin 35802 1981.84
+Iraq 15962 1830.68
+Trinidad & Tobago 754 100.32
+Benin 13670 493.74
+Cuba 11930 1415.09
+Ukraine 12186 180.68
+Barbados 36582 1762.72
+Italy 45453 910.73
+Afghanistan 14906 30.11
+San Marino 48563 476.92
+Germany 43511 1530.19
+Spain 22154 1133.08
+Italy 9963 1485.01
+Azerbaijan 37060 1019.27
+Marshall Islands 18222 244.15
+Nepal 17924 568.66
+Antigua & Deps 29851 109.75
+Gambia 15419 199.9
+Algeria 12566 106.7
+Afghanistan 10812 1849.27
+Costa Rica 7022 270.74
+Slovakia 44361 856.58
+Italy 28885 26.72
+Eswatini 30289 1120.99
+Antigua & Deps 789 698.38
+Kuwait 20116 1210.08
+Taiwan 24069 1738.18
+Uruguay 38919 1941.03
+Israel 32191 578.61
+Mongolia 49035 1596.44
+Costa Rica 49484 1569.1
+Japan 10795 965.95
+Algeria 6794 665.34
+Vietnam 33806 763.8
+Canada 37790 124.54
+Marshall Islands 7517 920.26
+Armenia 4125 742.76
+Marshall Islands 1933 102.7
+Slovakia 4155 1260.42
+Kuwait 32334 1059.04
+Australia 6098 300.15
+Afghanistan 11093 870.36
+Oman 48109 1407.19
+Marshall Islands 46178 190.15
+Algeria 3138 1211.46
+India 29184 1649.0
+Israel 7152 212.29
+Bhutan 5158 62.93
+Iraq 4407 1509.45
+Indonesia 14081 812.86
+Bahamas 665 333.15
+Colombia 28631 1181.98
+Australia 12848 535.19
+Albania 27904 1383.14
+Colombia 27409 412.76
+Kuwait 10458 1271.52
+Ukraine 45521 1927.28
+Kosovo 30982 714.79
+Bulgaria 48458 1717.99
+Bulgaria 14391 1980.63
+Bhutan 12280 1708.74
+Yemen 8592 1525.59
+Gambia 19456 13.59
+Myanmar 21145 1290.5
+Antigua & Deps 48398 1923.13
+Canada 42930 1604.16
+Oman 28404 1932.02
+Colombia 44264 1710.65
+Germany 29834 1885.85
+Algeria 46822 1917.57
+Bulgaria 34612 524.4
+Oman 24686 752.66
+Ethiopia 9308 1989.46
+Azerbaijan 5533 1481.52
+Israel 16260 142.54
+Indonesia 17005 743.26
+Japan 27545 1292.03
+Spain 23350 394.57
+Russian Federation 13319 198.15
+Liberia 30768 1225.33
+Iraq 7495 834.13
+Ukraine 8736 1123.12
+Costa Rica 10112 353.75
+Yemen 17890 1662.42
+Russian Federation 39048 1306.6
+Kuwait 21950 357.48
+Iraq 26140 1419.93
+Djibouti 9556 192.24
+Vanuatu 19107 1384.18
+Oman 40408 764.94
+Mongolia 38764 1939.77
+Azerbaijan 31083 33.71
+Colombia 6827 1943.87
+Canada 44177 281.13
+Israel 26189 1486.99
+Iraq 31604 67.06
+Antigua & Deps 3242 1093.3
+Antigua & Deps 24387 1429.98
+Costa Rica 48777 1283.19
+Costa Rica 29458 974.72
+Kuwait 13738 1198.4
+Iceland 2015 241.59
+Kuwait 44479 1950.57
+Burkina 10879 325.92
+Eswatini 41699 518.11
+Costa Rica 4482 449.11
+Albania 11995 1286.21
+Indonesia 48701 1895.56
+San Marino 23646 89.47
+Germany 14772 345.52
+Afghanistan 16887 1846.52
+Taiwan 11095 1034.26
+Ukraine 23325 804.92
+Djibouti 8656 1957.5
+Antigua & Deps 10148 1592.97
+Nepal 15035 884.25
+Vietnam 7007 366.94
+Kuwait 35570 1393.21
+Antigua & Deps 20963 963.07
+Canada 39741 1688.28
+Afghanistan 37083 402.75
+Israel 38180 1175.19
+Bahamas 16667 1745.72
+Iraq 6273 1833.11
+Marshall Islands 21462 1391.6
+Myanmar 27279 501.73
+Taiwan 19809 1772.71
+Bhutan 39565 1628.96
+Armenia 30142 1312.24
+Gambia 12322 641.7
+Vanuatu 5979 1908.66
+Kosovo 32397 1577.34
+Spain 44106 791.4
+Indonesia 21194 1665.16
+Ukraine 40386 456.78
+Azerbaijan 9089 629.75
+Taiwan 23846 1981.62
+Eswatini 8064 565.16
+Ethiopia 33295 344.29
+Djibouti 40108 1851.39
+Indonesia 20701 674.04
+Afghanistan 13626 1909.88
+Yemen 17333 1326.08
+Liberia 17538 351.86
+Indonesia 26556 67.56
+Vanuatu 47256 1355.48
+Albania 48734 1532.92
+Bahamas 24651 1651.89
+Costa Rica 6232 312.73
+Ethiopia 36122 1500.3
+Afghanistan 7466 1981.56
+France 24694 13.9
+India 8824 42.77
+Taiwan 8653 842.88
+Israel 17970 907.56
+Myanmar 42518 1690.83
+Antigua & Deps 47767 1491.98
+Eswatini 190 1267.53
+Bulgaria 1179 1797.32
+Bhutan 28009 724.12
+Mongolia 12252 280.18
+Bulgaria 40439 1353.97
+Colombia 28762 1276.44
+Spain 47994 381.39
+Barbados 44933 1639.95
+Bahamas 30960 429.12
+Kosovo 34245 922.31
+Antigua & Deps 12565 505.72
+Mongolia 5112 1866.77
+Barbados 41602 1672.91
+Oman 20177 1850.12
+Iceland 20707 464.99
+Slovakia 10002 1152.42
+Djibouti 31646 88.89
+Aruba 31530 944.26
+Italy 4575 1727.25
+Russian Federation 30921 1114.17
+Albania 39353 1261.83
+Marshall Islands 44976 1820.89
+Djibouti 20476 837.98
+Vietnam 41843 884.32
+San Marino 24875 1249.58
+Bahamas 14869 1764.8
+Costa Rica 28500 1086.33
+Spain 14862 571.96
+Costa Rica 29506 144.92
+Vietnam 42164 374.52
+Taiwan 24375 696.6
+Mongolia 17795 1313.27
+Burkina 12034 1917.17
+Italy 32563 474.05
+Australia 9780 442.78
+Bhutan 3190 1791.49
+Gambia 40191 433.75
+Bulgaria 24139 1852.67
+Costa Rica 31240 952.47
+Burkina 34007 547.38
+Liberia 46107 775.16
+Vietnam 17015 1172.56
+San Marino 38757 1073.76
+Kosovo 28614 528.79
+Eswatini 38460 156.58
+Israel 47878 1412.0
+Ukraine 41714 898.9
+Bhutan 16164 1220.27
+Marshall Islands 10668 434.44
+Iceland 12256 1356.49
+Colombia 26135 1692.13
+San Marino 31983 1831.75
+Canada 12328 174.9
+Vanuatu 18083 1284.9
+Oman 25907 153.84
+Azerbaijan 24819 147.71
+Trinidad & Tobago 5379 1765.54
+France 5229 1567.17
+Spain 39034 105.99
+Vietnam 13194 1665.28
+Aruba 5144 400.15
+Afghanistan 560 196.92
+Canada 16956 16.84
+Japan 36473 1633.1
+Bahamas 37521 1002.99
+Spain 32140 1197.93
+Gambia 11768 364.93
+Israel 19610 951.33
+Antigua & Deps 5223 824.44
+Iceland 25348 1667.71
+Ethiopia 41452 1559.65
+Aruba 47344 1178.17
+Ethiopia 7302 1008.94
+Antigua & Deps 13720 897.91
+Iceland 11304 1895.3
+Spain 37010 1864.46
+Antigua & Deps 48171 1283.7
+Myanmar 39530 1739.82
+Eswatini 9682 919.61
+Russian Federation 37881 782.22
+Ukraine 23117 814.11
+India 33166 832.17
+Mongolia 48039 994.43
+Vanuatu 33436 724.11
+Bulgaria 37250 307.98
+Algeria 8397 1402.83
+Ethiopia 12343 308.44
+Yemen 41001 1243.32
+Mongolia 15136 1580.45
+Mongolia 39719 1580.59
+Costa Rica 40234 887.73
+Gambia 44204 1373.06
+Azerbaijan 28795 1314.98
+Mongolia 23797 104.08
+Australia 5728 1316.13
+Armenia 21328 1605.4
+Azerbaijan 19848 1415.07
+Germany 32974 1556.01
+Barbados 11213 1115.16
+Benin 36587 1142.1
+Spain 3972 1742.23
+Aruba 27413 1733.02
+Taiwan 49950 1899.04
+Russian Federation 48679 630.79
+Australia 19614 100.43
+Bulgaria 4366 1667.07
+Oman 47656 347.11
+Indonesia 23155 1234.45
+Aruba 47599 908.48
+Bulgaria 41499 1475.16
+Liberia 35625 563.97
+Bulgaria 46587 338.3
+Antigua & Deps 8469 1534.26
+Antigua & Deps 32483 493.28
+Slovakia 11026 1219.71
+Slovakia 28018 1460.26
+Aruba 33695 1089.05
+Yemen 38650 1364.31
+Ukraine 45491 172.77
+Azerbaijan 37496 1822.75
+Japan 22799 1123.44
+San Marino 34034 1762.67
+Aruba 39640 833.57
+Taiwan 13061 73.7
+Vanuatu 34321 840.82
+Djibouti 39622 1814.93
+Japan 11574 140.2
+Iceland 43182 726.01
+Germany 1451 1522.52
+Afghanistan 20164 1950.63
+Algeria 20374 1969.06
+Eswatini 44849 1958.53
+Australia 6906 333.23
+France 44738 1891.96
+Burkina 17270 45.35
+Marshall Islands 38220 968.82
+Kosovo 28950 312.73
+Albania 24196 211.83
+France 44726 666.11
+Afghanistan 21353 418.31
+Ethiopia 32078 868.29
+Vietnam 44417 517.76
+Liberia 19260 1592.7
+Antigua & Deps 28793 1034.16
+Aruba 49144 1679.57
+Gambia 37939 593.54
+Israel 13914 672.3
+Iraq 35306 1138.12
+Taiwan 10980 647.97
+Ukraine 11757 1844.85
+Canada 35698 1038.57
+India 32413 466.3
+Eswatini 42468 297.02
