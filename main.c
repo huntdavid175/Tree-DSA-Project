@@ -19,6 +19,7 @@ typedef struct HashTable
 
 int GenerateHash(char *key);
 Parcel *initializeParcelNode(char *destination, int weight, float valuation);
+Parcel *initializeHashTable(void);
 
 int main(void)
 {
@@ -58,4 +59,20 @@ Parcel *initializeParcelNode(char *destination, int weight, float valuation)
     node->leftChild = NULL;
     node->rightChild = NULL;
     return node;
+}
+
+HashTable *initializeHashTable(void)
+{
+    HashTable *hashTable = (HashTable *)malloc(sizeof(HashTable));
+    if (hashTable == NULL)
+    {
+        printf("EOM");
+        exit(FAILURE);
+    }
+
+    for (int i = 0; i < TABLE_SIZE; i++)
+    {
+        hashTable->table[i] = NULL;
+    }
+    return hashTable;
 }
