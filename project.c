@@ -15,6 +15,10 @@
 
 #define TABLE_SIZE 127
 #define FAILURE 1
+#define TEXTLINE 100
+#define DESTINATION_SIZE 20
+#define WEIGHT_INIT 0
+#define VALUATION_INIT 0.0
 
 // Parcel struct
 typedef struct Parcel
@@ -51,10 +55,10 @@ void displayParcelsByLowOrHighWeight(Parcel *root, int weight);
 int main(void)
 {
     FILE *fp = NULL;
-    char textLine[100] = "";
-    char destination[20] = "";
-    int weight = 0;
-    float valuation = 0.0;
+    char textLine[TEXTLINE] = "";
+    char destination[DESTINATION_SIZE] = "";
+    int weight = WEIGHT_INIT;
+    float valuation = VALUATION_INIT;
 
     HashTable *hashTable = initializeHashTable();
 
@@ -67,13 +71,24 @@ int main(void)
 
     while (fgets(textLine, sizeof(textLine), fp) != NULL)
     {
-        int parsed = sscanf(textLine, "%s %d %f", destination, &weight, &valuation);
+        // Remove newline character if present
+        textLine[strcspn(textLine, "\n")] = '\0';
 
-        if (parsed != 3)
-        {
-            printf("Error parsing line: %s\n", textLine);
+        // Split the line by commas
+        char *token = strtok(textLine, ",");
+        if (token == NULL)
             continue;
-        }
+        strcpy(destination, token);
+
+        token = strtok(NULL, ",");
+        if (token == NULL)
+            continue;
+        weight = atoi(token);
+
+        token = strtok(NULL, ",");
+        if (token == NULL)
+            continue;
+        valuation = atof(token);
 
         insertIntoTable(hashTable, destination, weight, valuation);
     }
@@ -89,7 +104,7 @@ int main(void)
         printf("3. Display the total parcel load and valuation for the country\n");
         printf("4. Enter the country name and display cheapest and most expensive parcel’s details\n");
         printf("5. Enter the country name and display lightest and heaviest parcel for the country\n");
-        printf("6. Exit the application\n");
+        printf("6. Exit the application\n\n");
         printf("Enter your choice: ");
 
         scanf("%d", &choice);
@@ -106,7 +121,7 @@ int main(void)
             fgets(countryName, sizeof(countryName), stdin);
             countryName[strcspn(countryName, "\n")] = '\0';
 
-            printf("Parcel details for %s:\n", countryName);
+            printf("\nParcel details for %s:\n", countryName);
             printCountryParcelDetails(hashTable, countryName);
             break;
         }
@@ -115,13 +130,13 @@ int main(void)
             char countryName[20] = "";
             int filterWeight = 0;
 
-            printf("You selected option 2: Enter country and weight pair.\n");
+            printf("\nYou selected option 2: Enter country and weight pair.\n");
             printf("Please enter the country name: ");
 
             fgets(countryName, sizeof(countryName), stdin);
             countryName[strcspn(countryName, "\n")] = '\0';
 
-            printf("Enter the weight to filter parcels: ");
+            printf("\nEnter the weight to filter parcels: ");
             scanf("%d", &filterWeight);
 
             int hash = GenerateHash(countryName);
@@ -132,7 +147,7 @@ int main(void)
                 break;
             }
 
-            printf("Parcels with weight higher or lower than %d:\n", filterWeight);
+            printf("\nParcels with weight higher or lower than %d:\n", filterWeight);
             displayParcelsByLowOrHighWeight(root, filterWeight);
             break;
         }
@@ -143,7 +158,7 @@ int main(void)
                 int totalWeight = 0;
                 float totalValuation = 0.0;
 
-                printf("You selected option 3: Display the total parcel load and valuation for the country.\n");
+                printf("\nYou selected option 3: Display the total parcel load and valuation for the country.\n");
                 printf("Please enter the country name: ");
 
                 fgets(countryName, sizeof(countryName), stdin);
@@ -166,7 +181,7 @@ int main(void)
         case 4:
         {
             char countryName[20] = "";
-            printf("You selected option 4: Enter the country name and display cheapest and most expensive parcel’s details.\n");
+            printf("\nYou selected option 4: Enter the country name and display cheapest and most expensive parcel’s details.\n");
             printf("Please enter the country name: ");
 
             fgets(countryName, sizeof(countryName), stdin);
@@ -185,7 +200,7 @@ int main(void)
 
             if (cheapest != NULL)
             {
-                printf("Cheapest parcel details for %s:\n", countryName);
+                printf("\nCheapest parcel details for %s:\n", countryName);
                 printf("Weight: %d\n", cheapest->weight);
                 printf("Valuation: %.2f\n", cheapest->valuation);
             }
@@ -196,7 +211,7 @@ int main(void)
 
             if (mostExpensive != NULL)
             {
-                printf("Most expensive parcel details for %s:\n", countryName);
+                printf("\nMost expensive parcel details for %s:\n", countryName);
                 printf("Weight: %d\n", mostExpensive->weight);
                 printf("Valuation: %.2f\n", mostExpensive->valuation);
             }
@@ -209,7 +224,7 @@ int main(void)
         case 5:
         {
             char countryName[20] = "";
-            printf("You selected option 5: Enter the country name and display lightest and heaviest parcel for the country.\n");
+            printf("\nYou selected option 5: Enter the country name and display lightest and heaviest parcel for the country.\n");
             printf("Please enter the country name: ");
 
             fgets(countryName, sizeof(countryName), stdin);
@@ -228,7 +243,7 @@ int main(void)
 
             if (lightest != NULL)
             {
-                printf("Lightest parcel details for %s:\n", countryName);
+                printf("\nLightest parcel details for %s:\n", countryName);
                 printf("Weight: %d\n", lightest->weight);
                 printf("Valuation: %.2f\n", lightest->valuation);
             }
@@ -239,7 +254,7 @@ int main(void)
 
             if (heaviest != NULL)
             {
-                printf("Heaviest parcel details for %s:\n", countryName);
+                printf("\nHeaviest parcel details for %s:\n", countryName);
                 printf("Weight: %d\n", heaviest->weight);
                 printf("Valuation: %.2f\n", heaviest->valuation);
             }
@@ -250,11 +265,11 @@ int main(void)
             break;
         }
         case 6:
-            printf("You selected option 6: Exit the application.\n");
+            printf("\nYou selected option 6: Exit the application.\n");
             printf("Exiting...\n");
             return 0;
         default:
-            printf("Invalid choice. Please try again.\n");
+            printf("\nInvalid choice. Please try again.\n");
         }
     }
 
