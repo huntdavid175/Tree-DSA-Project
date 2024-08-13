@@ -1,3 +1,14 @@
+/*
+ * FILE : project.cpp
+ * PROJECT : SENG1000 - Project
+ * PROGRAMMER : Fawaz Dogbe(8982570)
+ * FIRST VERSION : 2024 - 08 - 12
+ * DESCRIPTION :
+ *Using tree data structure to manage various product and display output based on
+ *specific requirements
+ * githubURL: https://github.com/huntdavid175/Tree-DSA-Project
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -5,6 +16,7 @@
 #define TABLE_SIZE 127
 #define FAILURE 1
 
+// Parcel struct
 typedef struct Parcel
 {
     char *destination;
@@ -14,16 +26,18 @@ typedef struct Parcel
     struct Parcel *rightChild;
 } Parcel;
 
+// HashTable struct
 typedef struct HashTable
 {
     Parcel *table[TABLE_SIZE];
 } HashTable;
 
+// function prototypes
 int GenerateHash(char *key);
 Parcel *initializeParcelNode(char *destination, int weight, float valuation);
 HashTable *initializeHashTable(void);
 void insertIntoTable(HashTable *hashTable, char *destination, int weight, float valuation);
-Parcel *InsertElementIntoBST(Parcel *root, Parcel *newParcel);
+Parcel *insertParcelIntoBST(Parcel *root, Parcel *newParcel);
 void printParcelBST(Parcel *root);
 void printCountryParcelDetails(HashTable *hashTable, char *destination);
 void calculateTotalLoadAndValuation(Parcel *root, int *totalWeight, float *totalValuation);
@@ -32,7 +46,7 @@ Parcel *findMostExpensiveParcel(Parcel *root);
 Parcel *findLightestParcel(Parcel *root);
 Parcel *findHeaviestParcel(Parcel *root);
 
-void displayParcelsByWeight(Parcel *root, int weight);
+void displayParcelsByLowOrHighWeight(Parcel *root, int weight);
 
 int main(void)
 {
@@ -119,7 +133,7 @@ int main(void)
             }
 
             printf("Parcels with weight higher or lower than %d:\n", filterWeight);
-            displayParcelsByWeight(root, filterWeight);
+            displayParcelsByLowOrHighWeight(root, filterWeight);
             break;
         }
         case 3:
@@ -247,6 +261,15 @@ int main(void)
     return 0;
 }
 
+//
+// FUNCTION : GenerateHash
+// DESCRIPTION :
+// This Function takes a string and hashes it and returns the hash
+// PARAMETERS :
+// char* key : a pointer to string
+// RETURNS :
+// int : the hashed value
+//
 int GenerateHash(char *key)
 {
     int hash = 0;
@@ -257,6 +280,17 @@ int GenerateHash(char *key)
     return hash;
 }
 
+//
+// FUNCTION : initializeParcelNode
+// DESCRIPTION :
+// This Function creates a new node
+// PARAMETERS :
+// char* destination : a pointer to destination string
+// int weight :an int number representing the weight
+// float valuation : valuation as a floating point number
+// RETURNS :
+// Parcel* : the new node
+//
 Parcel *initializeParcelNode(char *destination, int weight, float valuation)
 {
     Parcel *node = (Parcel *)malloc(sizeof(Parcel));
@@ -280,6 +314,15 @@ Parcel *initializeParcelNode(char *destination, int weight, float valuation)
     return node;
 }
 
+//
+// FUNCTION : initializeHashTable
+// DESCRIPTION :
+// This Function initializes the hash table
+// PARAMETERS :
+// void
+// RETURNS :
+// HashTable* : the initialized hashtable
+//
 HashTable *initializeHashTable(void)
 {
     HashTable *hashTable = (HashTable *)malloc(sizeof(HashTable));
@@ -296,6 +339,18 @@ HashTable *initializeHashTable(void)
     return hashTable;
 }
 
+//
+// FUNCTION : insertIntoTable
+// DESCRIPTION :
+// This Function inserts into the hash table
+// PARAMETERS :
+// HashTable* hashTable : a pointer to the hash table
+//// char* destination : a pointer to destination string
+// int weight :an int number representing the weight
+// float valuation : valuation as a floating point number
+// RETURNS :
+// void
+//
 void insertIntoTable(HashTable *hashTable, char *destination, int weight, float valuation)
 {
     int hash = GenerateHash(destination);
@@ -310,10 +365,19 @@ void insertIntoTable(HashTable *hashTable, char *destination, int weight, float 
     }
 
     Parcel *current = hashTable->table[hash];
-    hashTable->table[hash] = InsertElementIntoBST(current, newParcel);
+    hashTable->table[hash] = insertParcelIntoBST(current, newParcel);
 }
 
-Parcel *InsertElementIntoBST(Parcel *root, Parcel *newParcel)
+//
+// FUNCTION : insertParcelIntoBST
+// DESCRIPTION :
+// This Function inserts into the BST
+// PARAMETERS :
+// Parcel* root : a pointer to root of the bst
+// RETURNS :
+// Parcel* : the root of the bst
+//
+Parcel *insertParcelIntoBST(Parcel *root, Parcel *newParcel)
 {
     if (root == NULL)
     {
@@ -321,15 +385,24 @@ Parcel *InsertElementIntoBST(Parcel *root, Parcel *newParcel)
     }
     if (newParcel->weight < root->weight)
     {
-        root->leftChild = InsertElementIntoBST(root->leftChild, newParcel);
+        root->leftChild = insertParcelIntoBST(root->leftChild, newParcel);
     }
     else
     {
-        root->rightChild = InsertElementIntoBST(root->rightChild, newParcel);
+        root->rightChild = insertParcelIntoBST(root->rightChild, newParcel);
     }
     return root;
 }
 
+//
+// FUNCTION : printParcelBST
+// DESCRIPTION :
+// This Function prints the BST
+// PARAMETERS :
+// Parcel* root : a pointer to the parcel root bst
+// RETURNS :
+// void
+//
 void printParcelBST(Parcel *root)
 {
     if (root == NULL)
@@ -343,6 +416,16 @@ void printParcelBST(Parcel *root)
     printParcelBST(root->rightChild);
 }
 
+//
+// FUNCTION : printCountryParcelDetails
+// DESCRIPTION :
+// This Function prints the BST at a specific bucket
+// PARAMETERS :
+// HashTable* hashTable : a pointer to the hash table;
+// char* destination : a pointer to destination string
+// RETURNS :
+// void
+//
 void printCountryParcelDetails(HashTable *hashTable, char *destination)
 {
     int hash = GenerateHash(destination);
@@ -358,6 +441,17 @@ void printCountryParcelDetails(HashTable *hashTable, char *destination)
     printParcelBST(current);
 }
 
+//
+// FUNCTION : calculateTotalLoadAndValuation
+// DESCRIPTION :
+// This Function calculates the total load and valuation
+// PARAMETERS :
+// Parcel* root : a pointer to the root of the BST
+// int* totalWeight : a pointer to the total weight
+// float* totalValuation : a pointer to the total valuation
+// RETURNS :
+// void
+//
 void calculateTotalLoadAndValuation(Parcel *root, int *totalWeight, float *totalValuation)
 {
     if (root == NULL)
@@ -372,6 +466,15 @@ void calculateTotalLoadAndValuation(Parcel *root, int *totalWeight, float *total
     calculateTotalLoadAndValuation(root->rightChild, totalWeight, totalValuation);
 }
 
+//
+// FUNCTION : findCheapestParcel
+// DESCRIPTION :
+// This Function finds the cheapest parcel
+// PARAMETERS :
+// Parcel* root : a pointer to root of the bst
+// RETURNS :
+// Parcel* : the item that matches the condition
+//
 Parcel *findCheapestParcel(Parcel *root)
 {
     if (root == NULL)
@@ -394,6 +497,15 @@ Parcel *findCheapestParcel(Parcel *root)
     return cheapest;
 }
 
+//
+// FUNCTION : findMostExpensiveParcel
+// DESCRIPTION :
+// This Function finds the most expensive parcel
+// PARAMETERS :
+// Parcel* root : a pointer to root of the bst
+// RETURNS :
+// Parcel* : the item that matches the condition
+//
 Parcel *findMostExpensiveParcel(Parcel *root)
 {
     if (root == NULL)
@@ -416,6 +528,15 @@ Parcel *findMostExpensiveParcel(Parcel *root)
     return mostExpensive;
 }
 
+//
+// FUNCTION : findLightestParcel
+// DESCRIPTION :
+// This Function finds the most lightest parcel
+// PARAMETERS :
+// Parcel* root : a pointer to root of the bst
+// RETURNS :
+// Parcel* : the item that matches the condition
+//
 Parcel *findLightestParcel(Parcel *root)
 {
     if (root == NULL)
@@ -438,6 +559,15 @@ Parcel *findLightestParcel(Parcel *root)
     return lightest;
 }
 
+//
+// FUNCTION : findHeaviestParcel
+// DESCRIPTION :
+// This Function finds the most heaviest parcel
+// PARAMETERS :
+// Parcel* root : a pointer to root of the bst
+// RETURNS :
+// Parcel* : the item that matches the condition
+//
 Parcel *findHeaviestParcel(Parcel *root)
 {
     if (root == NULL)
@@ -460,17 +590,27 @@ Parcel *findHeaviestParcel(Parcel *root)
     return heaviest;
 }
 
-void displayParcelsByWeight(Parcel *root, int weight)
+//
+// FUNCTION : displayParcelsByLowOrHighWeight
+// DESCRIPTION :
+// This Function prints elements that are higher or lower than the given weight
+// PARAMETERS :
+// Parcel* root : a pointer to root of the bst
+// int weight : the given weight
+// RETURNS :
+// void
+//
+void displayParcelsByLowOrHighWeight(Parcel *root, int weight)
 {
     if (root == NULL)
         return;
 
-    displayParcelsByWeight(root->leftChild, weight);
+    displayParcelsByLowOrHighWeight(root->leftChild, weight);
 
     if (root->weight != weight)
     {
         printf("Destination: %s, Weight: %d, Valuation: %.2f\n", root->destination, root->weight, root->valuation);
     }
 
-    displayParcelsByWeight(root->rightChild, weight);
+    displayParcelsByLowOrHighWeight(root->rightChild, weight);
 }
