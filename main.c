@@ -26,6 +26,9 @@ void insertIntoTable(HashTable *hashTable, char *destination, int weight, float 
 Parcel *InsertElementIntoBST(Parcel *root, Parcel *newParcel);
 void printParcelBST(Parcel *root);
 void printCountryParcelDetails(HashTable *hashTable, char *destination);
+void calculateTotalLoadAndValuation(Parcel *root, int *totalWeight, float *totalValuation);
+Parcel *findCheapestParcel(Parcel *root);
+Parcel *findMostExpensiveParcel(Parcel *root);
 
 int main(void)
 {
@@ -95,13 +98,75 @@ int main(void)
             printf("You can specify if you want parcels with weight higher or lower than the given weight.\n");
             break;
         case 3:
-            printf("You selected option 3: Display the total parcel load and valuation for the country.\n");
-            printf("Please enter the country name to calculate the total load and valuation of all parcels.\n");
-            break;
+        {
+            {
+                char countryName[20] = "";
+                int totalWeight = 0;
+                float totalValuation = 0.0;
+
+                printf("You selected option 3: Display the total parcel load and valuation for the country.\n");
+                printf("Please enter the country name: ");
+
+                fgets(countryName, sizeof(countryName), stdin);
+                countryName[strcspn(countryName, "\n")] = '\0';
+
+                int hash = GenerateHash(countryName);
+                Parcel *current = hashTable->table[hash];
+                if (current == NULL)
+                {
+                    printf("Country %s has no parcels\n", countryName);
+                    break;
+                }
+
+                calculateTotalLoadAndValuation(current, &totalWeight, &totalValuation);
+                printf("\nTotal load for %s: %d\n", countryName, totalWeight);
+                printf("Total valuation for %s: %.2f\n", countryName, totalValuation);
+                break;
+            }
+        }
         case 4:
+        {
+            char countryName[20] = "";
             printf("You selected option 4: Enter the country name and display cheapest and most expensive parcel’s details.\n");
-            printf("Please enter the country name to find and display the cheapest and most expensive parcel details.\n");
+            printf("Please enter the country name: ");
+
+            fgets(countryName, sizeof(countryName), stdin);
+            countryName[strcspn(countryName, "\n")] = '\0';
+
+            int hash = GenerateHash(countryName);
+            Parcel *current = hashTable->table[hash];
+            if (current == NULL)
+            {
+                printf("Country %s has no parcels\n", countryName);
+                break;
+            }
+
+            Parcel *cheapest = findCheapestParcel(current);
+            Parcel *mostExpensive = findMostExpensiveParcel(current);
+
+            if (cheapest != NULL)
+            {
+                printf("Cheapest parcel details for %s:\n", countryName);
+                printf("Weight: %d\n", cheapest->weight);
+                printf("Valuation: %.2f\n", cheapest->valuation);
+            }
+            else
+            {
+                printf("No parcels found for %s\n", countryName);
+            }
+
+            if (mostExpensive != NULL)
+            {
+                printf("Most expensive parcel details for %s:\n", countryName);
+                printf("Weight: %d\n", mostExpensive->weight);
+                printf("Valuation: %.2f\n", mostExpensive->valuation);
+            }
+            else
+            {
+                printf("No parcels found for %s\n", countryName);
+            }
             break;
+        }
         case 5:
             printf("You selected option 5: Enter the country name and display lightest and heaviest parcel for the country.\n");
             printf("Please enter the country name to find and display the lightest and heaviest parcel details.\n");
@@ -227,4 +292,62 @@ void printCountryParcelDetails(HashTable *hashTable, char *destination)
     }
 
     printParcelBST(current);
+}
+
+void calculateTotalLoadAndValuation(Parcel *root, int *totalWeight, float *totalValuation)
+{
+    if (root == NULL)
+        return;
+
+    // Accumulate weight and valuation for the current node
+    *totalWeight += root->weight;
+    *totalValuation += root->valuation;
+
+    // Traverse left and right subtrees
+    calculateTotalLoadAndValuation(root->leftChild, totalWeight, totalValuation);
+    calculateTotalLoadAndValuation(root->rightChild, totalWeight, totalValuation);
+}
+
+Parcel *findCheapestParcel(Parcel *root)
+{
+    if (root == NULL)
+        return NULL;
+
+    Parcel *cheapest = root;
+
+    Parcel *leftCheapest = findCheapestParcel(root->leftChild);
+    if (leftCheapest != NULL && leftCheapest->valuation < cheapest->valuation)
+    {
+        cheapest = leftCheapest;
+    }
+
+    Parcel *rightCheapest = findCheapestParcel(root->rightChild);
+    if (rightCheapest != NULL && rightCheapest->valuation < cheapest->valuation)
+    {
+        cheapest = rightCheapest;
+    }
+
+    return cheapest;
+}
+
+Parcel *findMostExpensiveParcel(Parcel *root)
+{
+    if (root == NULL)
+        return NULL;
+
+    Parcel *mostExpensive = root;
+
+    Parcel *leftMostExpensive = findMostExpensiveParcel(root->leftChild);
+    if (leftMostExpensive != NULL && leftMostExpensive->valuation > mostExpensive->valuation)
+    {
+        mostExpensive = leftMostExpensive;
+    }
+
+    Parcel *rightMostExpensive = findMostExpensiveParcel(root->rightChild);
+    if (rightMostExpensive != NULL && rightMostExpensive->valuation > mostExpensive->valuation)
+    {
+        mostExpensive = rightMostExpensive;
+    }
+
+    return mostExpensive;
 }
