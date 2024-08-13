@@ -51,6 +51,8 @@ Parcel *findCheapestParcel(Parcel *root);
 Parcel *findMostExpensiveParcel(Parcel *root);
 Parcel *findLightestParcel(Parcel *root);
 Parcel *findHeaviestParcel(Parcel *root);
+void freeHashTable(HashTable *hashTable);
+void freeParcelBST(Parcel *root);
 
 void displayParcelsByLowOrHighWeight(Parcel *root, int weight, char *filterType);
 
@@ -281,6 +283,7 @@ int main(void)
         }
     }
 
+    freeHashTable(hashTable);
     return 0;
 }
 
@@ -637,4 +640,49 @@ void displayParcelsByLowOrHighWeight(Parcel *root, int weight, char *filterType)
     }
 
     displayParcelsByLowOrHighWeight(root->rightChild, weight, filterType);
+}
+//
+// FUNCTION : freeParcelBST
+// DESCRIPTION :
+// This Function frees the memory allocated for BST nodes
+// PARAMETERS :
+// Parcel* hashTable : a pointer to the parcel
+// RETURNS :
+// void
+//
+void freeParcelBST(Parcel *root)
+{
+    if (root == NULL)
+        return;
+
+    // Recursively free left and right children
+    freeParcelBST(root->leftChild);
+    freeParcelBST(root->rightChild);
+
+    // Free the destination string
+    free(root->destination);
+
+    // Free the node itself
+    free(root);
+}
+
+//
+// FUNCTION : freeHashTable
+// DESCRIPTION :
+// This Function frees the memory allocated for the hash table
+// PARAMETERS :
+// HashTable* hashTable : a pointer to the hashTable
+// RETURNS :
+// void
+//
+void freeHashTable(HashTable *hashTable)
+{
+    for (int i = 0; i < TABLE_SIZE; i++)
+    {
+        if (hashTable->table[i] != NULL)
+        {
+            freeParcelBST(hashTable->table[i]);
+        }
+    }
+    free(hashTable);
 }
