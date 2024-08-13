@@ -20,6 +20,8 @@
 #define WEIGHT_INIT 0
 #define VALUATION_INIT 0.0
 
+#pragma warning(disable : 4996)
+
 // Parcel struct
 typedef struct Parcel
 {
