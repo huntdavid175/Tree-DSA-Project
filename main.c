@@ -29,6 +29,10 @@ void printCountryParcelDetails(HashTable *hashTable, char *destination);
 void calculateTotalLoadAndValuation(Parcel *root, int *totalWeight, float *totalValuation);
 Parcel *findCheapestParcel(Parcel *root);
 Parcel *findMostExpensiveParcel(Parcel *root);
+Parcel *findLightestParcel(Parcel *root);
+Parcel *findHeaviestParcel(Parcel *root);
+
+void displayParcelsByWeight(Parcel *root, int weight);
 
 int main(void)
 {
@@ -93,10 +97,31 @@ int main(void)
             break;
         }
         case 2:
+        {
+            char countryName[20] = "";
+            int filterWeight = 0;
+
             printf("You selected option 2: Enter country and weight pair.\n");
-            printf("Please enter the country name and weight to filter parcels.\n");
-            printf("You can specify if you want parcels with weight higher or lower than the given weight.\n");
+            printf("Please enter the country name: ");
+
+            fgets(countryName, sizeof(countryName), stdin);
+            countryName[strcspn(countryName, "\n")] = '\0';
+
+            printf("Enter the weight to filter parcels: ");
+            scanf("%d", &filterWeight);
+
+            int hash = GenerateHash(countryName);
+            Parcel *root = hashTable->table[hash];
+            if (root == NULL)
+            {
+                printf("Country %s has no parcels\n", countryName);
+                break;
+            }
+
+            printf("Parcels with weight higher or lower than %d:\n", filterWeight);
+            displayParcelsByWeight(root, filterWeight);
             break;
+        }
         case 3:
         {
             {
@@ -168,9 +193,48 @@ int main(void)
             break;
         }
         case 5:
+        {
+            char countryName[20] = "";
             printf("You selected option 5: Enter the country name and display lightest and heaviest parcel for the country.\n");
-            printf("Please enter the country name to find and display the lightest and heaviest parcel details.\n");
+            printf("Please enter the country name: ");
+
+            fgets(countryName, sizeof(countryName), stdin);
+            countryName[strcspn(countryName, "\n")] = '\0';
+
+            int hash = GenerateHash(countryName);
+            Parcel *current = hashTable->table[hash];
+            if (current == NULL)
+            {
+                printf("Country %s has no parcels\n", countryName);
+                break;
+            }
+
+            Parcel *lightest = findLightestParcel(current);
+            Parcel *heaviest = findHeaviestParcel(current);
+
+            if (lightest != NULL)
+            {
+                printf("Lightest parcel details for %s:\n", countryName);
+                printf("Weight: %d\n", lightest->weight);
+                printf("Valuation: %.2f\n", lightest->valuation);
+            }
+            else
+            {
+                printf("No parcels found for %s\n", countryName);
+            }
+
+            if (heaviest != NULL)
+            {
+                printf("Heaviest parcel details for %s:\n", countryName);
+                printf("Weight: %d\n", heaviest->weight);
+                printf("Valuation: %.2f\n", heaviest->valuation);
+            }
+            else
+            {
+                printf("No parcels found for %s\n", countryName);
+            }
             break;
+        }
         case 6:
             printf("You selected option 6: Exit the application.\n");
             printf("Exiting...\n");
@@ -350,4 +414,63 @@ Parcel *findMostExpensiveParcel(Parcel *root)
     }
 
     return mostExpensive;
+}
+
+Parcel *findLightestParcel(Parcel *root)
+{
+    if (root == NULL)
+        return NULL;
+
+    Parcel *lightest = root;
+
+    Parcel *leftLightest = findLightestParcel(root->leftChild);
+    if (leftLightest != NULL && leftLightest->weight < lightest->weight)
+    {
+        lightest = leftLightest;
+    }
+
+    Parcel *rightLightest = findLightestParcel(root->rightChild);
+    if (rightLightest != NULL && rightLightest->weight < lightest->weight)
+    {
+        lightest = rightLightest;
+    }
+
+    return lightest;
+}
+
+Parcel *findHeaviestParcel(Parcel *root)
+{
+    if (root == NULL)
+        return NULL;
+
+    Parcel *heaviest = root;
+
+    Parcel *leftHeaviest = findHeaviestParcel(root->leftChild);
+    if (leftHeaviest != NULL && leftHeaviest->weight > heaviest->weight)
+    {
+        heaviest = leftHeaviest;
+    }
+
+    Parcel *rightHeaviest = findHeaviestParcel(root->rightChild);
+    if (rightHeaviest != NULL && rightHeaviest->weight > heaviest->weight)
+    {
+        heaviest = rightHeaviest;
+    }
+
+    return heaviest;
+}
+
+void displayParcelsByWeight(Parcel *root, int weight)
+{
+    if (root == NULL)
+        return;
+
+    displayParcelsByWeight(root->leftChild, weight);
+
+    if (root->weight != weight)
+    {
+        printf("Destination: %s, Weight: %d, Valuation: %.2f\n", root->destination, root->weight, root->valuation);
+    }
+
+    displayParcelsByWeight(root->rightChild, weight);
 }
