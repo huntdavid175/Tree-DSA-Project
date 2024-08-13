@@ -50,7 +50,7 @@ Parcel *findMostExpensiveParcel(Parcel *root);
 Parcel *findLightestParcel(Parcel *root);
 Parcel *findHeaviestParcel(Parcel *root);
 
-void displayParcelsByLowOrHighWeight(Parcel *root, int weight);
+void displayParcelsByLowOrHighWeight(Parcel *root, int weight, char *filterType);
 
 int main(void)
 {
@@ -98,7 +98,7 @@ int main(void)
     {
         int choice = 0;
 
-        printf("Parcel Management Menu:\n");
+        printf("\n\nParcel Management Menu:\n");
         printf("1. Enter country name and display all the parcel details\n");
         printf("2. Enter country and weight pair\n");
         printf("3. Display the total parcel load and valuation for the country\n");
@@ -129,6 +129,7 @@ int main(void)
         {
             char countryName[20] = "";
             int filterWeight = 0;
+            char choice[10] = "";
 
             printf("\nYou selected option 2: Enter country and weight pair.\n");
             printf("Please enter the country name: ");
@@ -138,6 +139,11 @@ int main(void)
 
             printf("\nEnter the weight to filter parcels: ");
             scanf("%d", &filterWeight);
+            getchar(); // clear the newline left by scanf
+
+            printf("Do you want to see parcels with weight 'higher' or 'lower' than %d? ", filterWeight);
+            fgets(choice, sizeof(choice), stdin);
+            choice[strcspn(choice, "\n")] = '\0';
 
             int hash = GenerateHash(countryName);
             Parcel *root = hashTable->table[hash];
@@ -147,8 +153,8 @@ int main(void)
                 break;
             }
 
-            printf("\nParcels with weight higher or lower than %d:\n", filterWeight);
-            displayParcelsByLowOrHighWeight(root, filterWeight);
+            printf("\nParcels with weight %s than %d for %s:\n", choice, filterWeight, countryName);
+            displayParcelsByLowOrHighWeight(root, filterWeight, choice);
             break;
         }
         case 3:
@@ -615,17 +621,18 @@ Parcel *findHeaviestParcel(Parcel *root)
 // RETURNS :
 // void
 //
-void displayParcelsByLowOrHighWeight(Parcel *root, int weight)
+void displayParcelsByLowOrHighWeight(Parcel *root, int weight, char *filterType)
 {
     if (root == NULL)
         return;
 
-    displayParcelsByLowOrHighWeight(root->leftChild, weight);
+    displayParcelsByLowOrHighWeight(root->leftChild, weight, filterType);
 
-    if (root->weight != weight)
+    if ((strcmp(filterType, "higher") == 0 && root->weight > weight) ||
+        (strcmp(filterType, "lower") == 0 && root->weight < weight))
     {
         printf("Destination: %s, Weight: %d, Valuation: %.2f\n", root->destination, root->weight, root->valuation);
     }
 
-    displayParcelsByLowOrHighWeight(root->rightChild, weight);
+    displayParcelsByLowOrHighWeight(root->rightChild, weight, filterType);
 }
